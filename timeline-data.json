@@ -1,0 +1,2767 @@
+{
+ "version": 1,
+ "eras": [
+  {
+   "id": "I",
+   "name": "L'Età del Mito",
+   "sub": "Le origini leggendarie degli Akbe e dei Veggenti"
+  },
+  {
+   "id": "II",
+   "name": "Portobianco",
+   "sub": "Il primo cataclisma di Hayan e l'ascesa di una città"
+  },
+  {
+   "id": "III",
+   "name": "La Guerra del Mare Dorato",
+   "sub": "Portobianco invade, Loeth Akbe resiste, Dodici combatte"
+  },
+  {
+   "id": "IV",
+   "name": "La Caduta del Meerswelt",
+   "sub": "Il secondo cataclisma e la fuga sulle Arche"
+  },
+  {
+   "id": "V",
+   "name": "L'Esilio tra le Stelle",
+   "sub": "Da Bral a El-Beth-El"
+  },
+  {
+   "id": "VI",
+   "name": "Arren Akbe",
+   "sub": "Seicento anni dopo: il ritorno della Tigre Blu"
+  },
+  {
+   "id": "VII",
+   "name": "La Campagna",
+   "sub": "El-Beth-El, sessione per sessione"
+  }
+ ],
+ "events": [
+  {
+   "code": "M01",
+   "title": "L'esilio di Erreth",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Nel regno di Dubkov il re ha due figli da due spose: Selidor, figlio della strega Ashara, ed Erreth. Ashara avvelena la seconda moglie, confonde la mente del re con gli incantesimi e fa nominare erede Selidor. Erreth viene esiliato e trova rifugio presso i monaci guerrieri della giungla, devoti alla Tigre Blu, lo spirito della giungla, della distruzione e della rinascita.",
+   "note": "",
+   "links": [
+    {
+     "code": "M02",
+     "why": "la caccia di Ashara a Erreth porta al patto con la Tigre Blu"
+    }
+   ],
+   "theories": [],
+   "sources": "Arren Akbe — A Stardom Backstory, cap. 1"
+  },
+  {
+   "code": "M02",
+   "title": "Il patto della Tigre Blu",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "I soldati di Ashara bruciano la giungla e massacrano i monaci. Erreth prega la Tigre Blu, che si fonde con il suo spirito: insieme fanno strage degli invasori. Erreth aveva forgiato una sciabola di metallo verde giada, carica dell'energia della giungla. È la lama che diventerà l'Artiglio degli Akbe.",
+   "note": "",
+   "links": [
+    {
+     "code": "M03",
+     "why": "conseguenza diretta del patto"
+    },
+    {
+     "code": "A02",
+     "why": "seicento anni dopo Indra si lega ad Arren «in nome del patto che feci con il tuo antenato»"
+    }
+   ],
+   "theories": [
+    "T07"
+   ],
+   "sources": "Backstory, cap. 1"
+  },
+  {
+   "code": "M03",
+   "title": "Il perdono dei principi fratelli",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Erreth affronta Selidor e scopre che il fratellastro era ignaro delle trame della madre. Selidor fa giustiziare Ashara e offre il trono a Erreth, che lo rifiuta: sceglie di curare la giungla e vi costruisce un palazzo-santuario. Lo spirito della Tigre Blu si lega per sempre alla sciabola e giura protezione a tutti i discendenti di Erreth.",
+   "note": "",
+   "links": [
+    {
+     "code": "C24",
+     "why": "la parabola del padre e dei due figli raccontata da Telio ha la stessa struttura (un genitore, due figli, un destino deciso da altri)"
+    }
+   ],
+   "theories": [
+    "T02"
+   ],
+   "sources": "Backstory, cap. 1"
+  },
+  {
+   "code": "M04",
+   "title": "Gli esuli del Muro di Brysta",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Gli Akbe, ramo cadetto della casa reale di Hesk e suoi generali più temuti, addestrano tigri da guerra nelle giungle dell'isola del Muro di Brysta. Quando un rivale usurpa il trono, devono scegliere tra la morte e l'esilio: rinunciano ai loro diritti e partono per mare con le loro tigri.",
+   "note": "",
+   "links": [
+    {
+     "code": "M05",
+     "why": "il viaggio degli esuli finisce nel Mare Dorato"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 2"
+  },
+  {
+   "code": "M05",
+   "title": "Guijian, la città delle scogliere bianche",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Gli Akbe sbarcano nel Mare Dorato, terra di città-stato indipendenti e di steppe battute dai centauri. Prendono la cittadina di Guijian, in cima a scogliere bianche, senza combattere: basta la vista delle tigri. Per secoli le altre famiglie li considerano una stirpe bastarda, ma loro assorbono la fede del Mare Dorato nei segni e nel destino.",
+   "note": "",
+   "links": [
+    {
+     "code": "G04",
+     "why": "da Guijian regnerà Yevaud II il Superstizioso"
+    },
+    {
+     "code": "E01",
+     "why": "dopo il Meerswelt gli Akbe torneranno a essere esuli"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 2"
+  },
+  {
+   "code": "M06",
+   "title": "Telio il Veggente e l'Altare Celeste",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "telio"
+   ],
+   "fams": [],
+   "text": "Sulle rive del fiume Yake un uomo di umili origini, Telio, legge i segni del cielo come nessun altro e «conversa con le stelle». Costruisce un altare per osservare il cielo e interpretare le profezie. Attorno all'altare nasce la città di Yake, centro spirituale e terreno neutrale del Mare Dorato. La sua fede è il Grande Disegno: una trama invisibile di fili tessuti dal destino, che tutto guida.",
+   "note": "",
+   "links": [
+    {
+     "code": "M07",
+     "why": "i discepoli di Telio fondano Roke e l'Ordine"
+    },
+    {
+     "code": "G07",
+     "why": "a Shinjang il Sergente si presenta con il nome di Telio"
+    },
+    {
+     "code": "C07",
+     "why": "in sessione emerge che Telio è il Veggente"
+    },
+    {
+     "code": "C10",
+     "why": "il Telio di oggi racconta un'altra origine"
+    }
+   ],
+   "theories": [
+    "T01"
+   ],
+   "sources": "Backstory, cap. 3"
+  },
+  {
+   "code": "M07",
+   "title": "Roke e l'Ordine dei Veggenti",
+   "era": "I",
+   "when": "epoca leggendaria",
+   "type": "event",
+   "chars": [
+    "telio",
+    "tenar"
+   ],
+   "fams": [],
+   "text": "Per tenere i Veggenti lontani dalle famiglie nobili, i discendenti di Telio erigono la fortezza di Roke in pietra nera: sale di lettura, torri, un labirinto interno e, al centro, la Sala degli Astri Eterni aperta al cielo. Nasce l'Ordine dei Veggenti, con il mantello viola e il rito dell'Esame dell'Ombra. Una profezia dice che un giorno un solo Veggente vedrà l'intero Disegno e tutti i popoli saranno guidati da un unico Re verso la Grande Pace.",
+   "note": "",
+   "links": [
+    {
+     "code": "G12",
+     "why": "Loeth farà giustiziare il Sommo Veggente di Roke"
+    },
+    {
+     "code": "C05",
+     "why": "la Piramide, con il suo labirinto, ricorda Roke"
+    },
+    {
+     "code": "C09",
+     "why": "la struttura «a cipolla» del castello di Yake"
+    }
+   ],
+   "theories": [
+    "T01",
+    "T11"
+   ],
+   "sources": "Backstory, cap. 3; appunti 27/05/25"
+  },
+  {
+   "code": "P01",
+   "title": "Il primo cataclisma di Hayan",
+   "era": "II",
+   "when": "primo cataclisma",
+   "type": "event",
+   "chars": [],
+   "fams": [],
+   "text": "Un cataclisma devasta le terre di Hayan, che restano infestate. Le rotte mercantili devono passare più a nord, attraverso il Mar Cremisi e la Furia di Kord. Yornan Huazhang, fondatore di Portobianco, intuisce l'occasione e trasforma la roccaforte in un porto indispensabile per il commercio di tutto il continente.",
+   "note": "",
+   "links": [
+    {
+     "code": "P02",
+     "why": "Dodici nasce in fuga da questo cataclisma"
+    },
+    {
+     "code": "P06",
+     "why": "la morte di Yornan cambia il destino della città"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 4; Compendio di Dodici"
+  },
+  {
+   "code": "P02",
+   "title": "La nascita di Dodici",
+   "era": "II",
+   "when": "durante il primo cataclisma",
+   "type": "event",
+   "chars": [
+    "dodici"
+   ],
+   "fams": [],
+   "text": "Su una scialuppa in fuga dalle terre di Hayan, mentre il fumo inghiotte la costa, una donna muore partorendo un bambino tra il sangue e il sale. Il bambino è Dodici.",
+   "note": "",
+   "links": [
+    {
+     "code": "P03",
+     "why": "il passo successivo della sua vita"
+    }
+   ],
+   "theories": [],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\""
+  },
+  {
+   "code": "P03",
+   "title": "Venti pezzi d'oro",
+   "era": "II",
+   "when": "Dodici ha 3 anni",
+   "type": "event",
+   "chars": [
+    "dodici"
+   ],
+   "fams": [],
+   "text": "Sotto la pioggia un uomo vende il bambino a uno schiavista in carrozza per venti pezzi d'oro. L'uomo ha sotto le narici i segni della polvere di Hosh ed è tormentato dal ricordo di una donna tradita otto anni prima. Non è detto che sia il padre.",
+   "note": "",
+   "links": [
+    {
+     "code": "P04",
+     "why": "lo schiavista lo porta ai cantieri di Portobianco"
+    }
+   ],
+   "theories": [],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\""
+  },
+  {
+   "code": "P04",
+   "title": "Il cantiere e la statua di Yornan",
+   "era": "II",
+   "when": "giovinezza di Dodici",
+   "type": "event",
+   "chars": [
+    "dodici"
+   ],
+   "fams": [],
+   "text": "Da ragazzo Dodici costruisce navi nei cantieri di Portobianco, la schiena segnata dalla frusta. Guarda la città dalle case bianche e dai tetti rossi, il castello sul mare e la statua di Yornan il Magnifico: il suo regno esiste ancora, ma il suo spirito è morto da tempo.",
+   "note": "",
+   "links": [
+    {
+     "code": "P05",
+     "why": "dal cantiere all'arena"
+    },
+    {
+     "code": "P06",
+     "why": "perché lo «spirito» di Yornan è morto"
+    }
+   ],
+   "theories": [],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\""
+  },
+  {
+   "code": "P05",
+   "title": "L'arena: Dodici diventa Giallizzero",
+   "era": "II",
+   "when": "giovinezza di Dodici",
+   "type": "event",
+   "chars": [
+    "dodici"
+   ],
+   "fams": [],
+   "text": "Nell'arena Dodici strangola uno dei più grandi combattenti di Portobianco e reclama il suo posto tra i Giallizzeri, i soldati-schiavi. Il patto è di vent'anni di battaglie in cambio della libertà. «Dodici» è il numero tatuato sulla sua pelle.",
+   "note": "",
+   "links": [
+    {
+     "code": "G02",
+     "why": "come Giallizzero partecipa all'invasione del Mare Dorato"
+    }
+   ],
+   "theories": [
+    "T10"
+   ],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\"; Compendio"
+  },
+  {
+   "code": "P06",
+   "title": "I Quattro Consiglieri e le rune dei giganti",
+   "era": "II",
+   "when": "dopo la morte di Yornan",
+   "type": "event",
+   "chars": [],
+   "fams": [],
+   "text": "Alla morte improvvisa di Yornan, la città passa ai suoi quattro consiglieri, più inclini alla forza che alla diplomazia. Guidati da Sha'lan, ex capo della scorta di Yornan, conquistano la Forgia della Tempesta dei giganti, prendono la Lancia di Kord e strappano il segreto delle rune. Con le rune creano un'élite di guerrieri marchiati e un esercito per conquistare le isole vicine.",
+   "note": "",
+   "links": [
+    {
+     "code": "G02",
+     "why": "con questo esercito comincia l'invasione del Mare Dorato"
+    },
+    {
+     "code": "G12",
+     "why": "Loeth strapperà le rune a un generale di Portobianco"
+    }
+   ],
+   "theories": [
+    "T10"
+   ],
+   "sources": "Backstory, cap. 4"
+  },
+  {
+   "code": "G01",
+   "title": "L'elfa e i centauri",
+   "era": "III",
+   "when": "anni da Giallizzero",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "elfa"
+   ],
+   "fams": [],
+   "text": "Dopo una disfatta nelle steppe del Mare Dorato, Dodici fugge inseguito dai centauri e si nasconde in una radura. Prega, e nessun dio risponde. Un'elfa uccide il centauro che lo ha scoperto con una freccia, lo guarda con disprezzo e sparisce. Da quel giorno Dodici non smette di pensare a lei: nei suoi piani di libertà c'è anche tornare a conquistarla.",
+   "note": "",
+   "links": [
+    {
+     "code": "G08",
+     "why": "l'elfa ricompare anni dopo al villaggio di Tharizdun"
+    },
+    {
+     "code": "C13",
+     "why": "Lena dice di essere stata una donna delle Steppe d'Oro"
+    }
+   ],
+   "theories": [
+    "T03",
+    "T09"
+   ],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\""
+  },
+  {
+   "code": "G02",
+   "title": "L'assedio di Guangzhang",
+   "era": "III",
+   "when": "inizio dell'invasione",
+   "type": "event",
+   "chars": [
+    "dodici"
+   ],
+   "fams": [],
+   "text": "Portobianco comincia la conquista del Mare Dorato da Guangzhang (Guazhang nel background), poi avanza su Lianzhou, Jinzhou e Taining. Le città del Mare Dorato, divise, cadono una dopo l'altra. Dodici ha otto anni di servizio alle spalle: spinge l'ariete contro la porta e in un vicolo uccide una guardia con un sasso. La sera prima, nella tenda, i compagni numerati scommettevano su chi sarebbe morto per primo.",
+   "note": "",
+   "links": [
+    {
+     "code": "G03",
+     "why": "dopo l'assedio arriva il Sergente"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 5; Storie di inizio sessione; PDF \"Dodici\"; Compendio"
+  },
+  {
+   "code": "G03",
+   "title": "«Ogni testa un giorno in meno»",
+   "era": "III",
+   "when": "dopo la presa di Guangzhang",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Mentre la città brucia, un uomo dalla pelle bianchissima, senza ciglia e con denti piccoli da bambino, nota il tatuaggio di Dodici. È il Sergente, e gli propone di unirsi alla sua banda: ogni uccisione sconterà un giorno di servizio. Dodici accetta.",
+   "note": "",
+   "links": [
+    {
+     "code": "G05",
+     "why": "il primo incarico che Dodici non capisce"
+    }
+   ],
+   "theories": [
+    "T01",
+    "T08"
+   ],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\""
+  },
+  {
+   "code": "G04",
+   "title": "La neutralità comprata",
+   "era": "III",
+   "when": "durante l'avanzata di Portobianco",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Per evitare che le famiglie nobili si ribellino, i Quattro Consiglieri pagano il Sommo Veggente di Yake perché proclami che il Grande Disegno vuole il Mare Dorato neutrale. Yevaud II, re degli Akbe, detto il Superstizioso, gli crede e rifiuta di combattere. Suo figlio Loeth brucia di rabbia mentre le città cadono.",
+   "note": "",
+   "links": [
+    {
+     "code": "G07",
+     "why": "a Shinjang il Sergente sostiene la stessa tesi davanti all'assemblea"
+    },
+    {
+     "code": "G12",
+     "why": "Loeth disobbedisce al padre"
+    }
+   ],
+   "theories": [
+    "T08"
+   ],
+   "sources": "Backstory, cap. 5"
+  },
+  {
+   "code": "G05",
+   "title": "Il generale e la parabola del viandante",
+   "era": "III",
+   "when": "con la banda del Sergente",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Dodici ha ventuno uccisioni nella mente. Su ordine del Sergente sgozza un generale di Portobianco e la sua concubina, e da quel giorno è «nemico di Portobianco, ma ancora sotto la sua bandiera». Quando chiede perché, il Sergente gli racconta di un viandante che trovò un oggetto incomprensibile, ne morì e ricevette dall'universo «un altro passo». «Il perché è nulla.» Intanto Mezzamani racconta che di notte il Sergente gira nudo per i campi, urlando.",
+   "note": "",
+   "links": [
+    {
+     "code": "C17",
+     "why": "secoli dopo Hor vede Telio nudo che danza attorno a una piramide"
+    },
+    {
+     "code": "C24",
+     "why": "un'altra parabola di Telio"
+    }
+   ],
+   "theories": [
+    "T02",
+    "T08"
+   ],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\"; Compendio"
+  },
+  {
+   "code": "G06",
+   "title": "La famiglia scelta",
+   "era": "III",
+   "when": "7 aprile",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio"
+   ],
+   "fams": [],
+   "text": "La banda tende un agguato a una carovana di centauri: l'unico sopravvissuto è un capitano elfo, fratello di Mezzamani, alleato della «famiglia della Tigre». Il Sergente fa un discorso sulla famiglia come scelta e non come sangue, e accusa Mezzamani di essere solo scappato. Mezzamani uccide il fratello. Il conto di Dodici sale a ventiquattro, e lui pensa al rivale indicato dal Sergente: la Tigre Blu.",
+   "note": "",
+   "links": [
+    {
+     "code": "G07",
+     "why": "Mezzamani viene nominato capitano"
+    },
+    {
+     "code": "G14",
+     "why": "Dodici finirà a vivere proprio con la «famiglia della Tigre»"
+    }
+   ],
+   "theories": [],
+   "sources": "Storie di inizio sessione; PDF \"Dodici\"; Compendio"
+  },
+  {
+   "code": "G07",
+   "title": "Shinjang: la morte del Mercante",
+   "era": "III",
+   "when": "con la banda del Sergente",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio"
+   ],
+   "fams": [],
+   "text": "La banda uccide una famiglia di cinque contadini per usarne i lasciapassare ed entrare a Shinjang. Nell'assemblea il Primo, un mercante signore di navi, spinge per la guerra contro Portobianco. Il Sergente, che qui si fa chiamare Telio, gli rivolta contro la città: «chi semina paura raccoglie controllo». Di notte Dodici e Mezzamani entrano nella villa del Mercante: il Mercante si sveglia e sgozza Mezzamani, Dodici uccide il Mercante. Il Sergente sorride come chi ha guadagnato «un'anima in più».",
+   "note": "",
+   "links": [
+    {
+     "code": "G08",
+     "why": "dopo Shinjang la banda marcia verso il prete di Tharizdun"
+    }
+   ],
+   "theories": [
+    "T01",
+    "T08"
+   ],
+   "sources": "Storie di inizio sessione; Compendio"
+  },
+  {
+   "code": "G08",
+   "title": "Il villaggio di Tharizdun",
+   "era": "III",
+   "when": "cinque giorni dopo Shinjang",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio",
+    "elfa"
+   ],
+   "fams": [],
+   "text": "Il 14 settembre, attorno al fuoco, il Sergente racconta della vedetta uccisa nell'unico istante di distrazione. Poi annuncia il viaggio verso il prete di Tharizdun, «l'unico dio che non ha mai mentito agli uomini». Il villaggio è silenzioso e devoto alla fine. Il prete conosce il Sergente, che gli punta contro una pistola: fa cilecca, e lui ride. Dodici vede l'elfa e la segue fino al tempio, dove un prete vecchissimo lo chiama «Prescelto» e gli mostra dei bassorilievi: una sfera spaccata, una sfera chiusa e, al centro, una figura liscia con il sorriso del Sergente. Il prete lo avverte: dovrà scegliere tra lui e una «donna delle sabbie», la cui strada è fatta di dolore e perdita.",
+   "note": "",
+   "links": [
+    {
+     "code": "G09",
+     "why": "Dodici sceglie la donna"
+    },
+    {
+     "code": "C06",
+     "why": "gli Gnoll con il «Tocco di Tharizdun»"
+    },
+    {
+     "code": "C08",
+     "why": "il messaggio di Tenar finisce con la Spirale di Tharizdun"
+    },
+    {
+     "code": "C31",
+     "why": "la domanda sugli occhi aperti e chiusi"
+    }
+   ],
+   "theories": [
+    "T04",
+    "T05",
+    "T06",
+    "T07",
+    "T13"
+   ],
+   "sources": "Storie di inizio sessione; Compendio (con gli appunti del secondo giocatore)"
+  },
+  {
+   "code": "G09",
+   "title": "Sotto le stelle",
+   "era": "III",
+   "when": "la notte al villaggio",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "elfa"
+   ],
+   "fams": [],
+   "text": "Dodici segue l'elfa nell'erba alta. Lei gli chiede se ha dimenticato le parole del prete, e alla fine aggiunge: «La fine non dà nulla, soldato. Io voglio avere». Sdraiati sotto le stelle, gli racconta che i cavalcatori di tigri leggono il Grande Disegno nel cielo, mentre lei viene da un luogo dove si crede solo nel presente. Quando lui le chiede se c'è un futuro per lui, un'ombra di tristezza le passa negli occhi. «Nel presente, se è questo che desideri, io te lo darò.»",
+   "note": "",
+   "links": [
+    {
+     "code": "G10",
+     "why": "la notte che precede il tradimento"
+    },
+    {
+     "code": "C13",
+     "why": "Lena dice di aver amato qualcuno di cui non può tradire il nome"
+    }
+   ],
+   "theories": [
+    "T03",
+    "T09"
+   ],
+   "sources": "Storie di inizio sessione; Compendio"
+  },
+  {
+   "code": "G10",
+   "title": "Il ballo: la liberazione di Dodici",
+   "era": "III",
+   "when": "l'alba dopo",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio",
+    "elfa"
+   ],
+   "fams": [],
+   "text": "Dodici seppellisce dei coltelli nel bosco e segna il punto su un albero secco, e sente un fruscio alle sue spalle. All'alba la banda torna dal prete, che si offre: sarà libero dalla sua prigionia in cambio del suo ruolo «in questo ballo». Le ombre dell'altare lo fanno a pezzi. «Divertente», dice il Sergente, e poi a Dodici: «e adesso sta a te ballare». Esplode una palla di fuoco. Dodici si risveglia tra guerrieri e maghi elfi, con il braccio bruciato dallo Sputafuoco, e per la prima volta non sente più lo sguardo del Sergente su di sé.",
+   "note": "",
+   "links": [
+    {
+     "code": "G11",
+     "why": "gli anni di libertà che seguono"
+    }
+   ],
+   "theories": [
+    "T04",
+    "T06"
+   ],
+   "sources": "Storie di inizio sessione; Compendio"
+  },
+  {
+   "code": "G11",
+   "title": "Tre anni e mezzo di libertà",
+   "era": "III",
+   "when": "dopo la liberazione",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "elfa"
+   ],
+   "fams": [],
+   "text": "Dodici vive con l'elfa nelle steppe e ha una figlia, poi un figlio. Cammina mano nella mano con la bambina verso un villaggio e prova qualcosa di semplice: libertà e felicità. Ma il volto bianco del Sergente gli resta piantato nella mente come un chiodo.",
+   "note": "",
+   "links": [
+    {
+     "code": "G14",
+     "why": "la pace finisce con l'arrivo della cavalleria"
+    }
+   ],
+   "theories": [],
+   "sources": "Storie di inizio sessione; Compendio"
+  },
+  {
+   "code": "G12",
+   "title": "L'Ascesa della Tigre",
+   "era": "III",
+   "when": "assedio di Yake",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Quando Portobianco assedia Yake, Loeth Akbe disobbedisce al padre, ruba la spada sacra della famiglia e invoca la Tigre Blu. Gli abitanti vedono tra la nebbia un uomo su una tigre gigantesca: l'esercito d'assedio viene decimato e un generale catturato. Loeth fa giustiziare il Sommo Veggente traditore e nomina Somma Veggente la sua promessa sposa Ayeth. Il generale prigioniero, per salvarsi, gli rivela il segreto delle rune.",
+   "note": "",
+   "links": [
+    {
+     "code": "G13",
+     "why": "la proclamazione del Re"
+    },
+    {
+     "code": "A02",
+     "why": "Arren è il terzo cavaliere della Tigre Blu dopo Erreth e Loeth"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 5"
+  },
+  {
+   "code": "G13",
+   "title": "Il Re del Mare Dorato",
+   "era": "III",
+   "when": "cinque anni di guerra",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Davanti alla fortezza dei Veggenti, Loeth riunisce le famiglie nobili e si proclama Re del Mare Dorato. Per cinque anni, in sella alla Tigre Blu e con le rune strappate al nemico, respinge Portobianco fino all'ultima roccaforte, GuanZhang.",
+   "note": "",
+   "links": [
+    {
+     "code": "G14",
+     "why": "la guerra vista dal campo di Dodici, dove la resistenza sta perdendo"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 5"
+  },
+  {
+   "code": "G14",
+   "title": "«Perdonami per questo»",
+   "era": "III",
+   "when": "durante la guerra di liberazione",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "elfa",
+    "telio"
+   ],
+   "fams": [],
+   "text": "La cavalleria della resistenza torna dal fronte: la costa del Mare Dorato è caduta. L'elfa bacia Dodici davanti alla tenda del maestro delle Tigri e gli dice: «Perdonami per questo». Loeth gli chiede di uccidere il Sergente, la cui banda sta eliminando uno dopo l'altro gli alleati della resistenza. Quella notte Dodici propone all'elfa di fuggire nelle steppe; lei risponde che dal Sergente non si può scappare, e non vuole dirgli cosa dicono le stelle.",
+   "note": "nei racconti Loeth è un «vecchio guerriero» e la resistenza sta perdendo; nel background è giovane e respinge Portobianco. Le fonti si possono conciliare se il racconto di Dodici coglie un momento difficile, o se la versione degli Akbe è stata abbellita dalla leggenda.",
+   "links": [
+    {
+     "code": "G15",
+     "why": "la partenza"
+    }
+   ],
+   "theories": [
+    "T09"
+   ],
+   "sources": "Storie di inizio sessione; Compendio"
+  },
+  {
+   "code": "G15",
+   "title": "Cento giorni",
+   "era": "III",
+   "when": "durante la guerra di liberazione",
+   "type": "event",
+   "chars": [
+    "dodici",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Dodici passa l'ultima sera a guardare il figlio giocare nel ruscello, convinto di non tornare. Poi parte: ha cento giorni per trovare il Sergente e quattro nomi da abbattere, cioè lo Sputafuoco, l'Arcano, il Lercio e il Visionario con i suoi figli. L'ultima vittima della banda è il fratello di Loeth. A Fuxien il Sergente ha ucciso il generale che aveva distrutto una colonna di Portobianco, ma un testimone è sopravvissuto, e Dodici cavalca verso di lui. Qui si interrompe la sua storia nota.",
+   "note": "",
+   "links": [
+    {
+     "code": "F01",
+     "why": "poco dopo arriva il secondo cataclisma"
+    }
+   ],
+   "theories": [],
+   "sources": "Storie di inizio sessione; Compendio"
+  },
+  {
+   "code": "F01",
+   "title": "Il secondo cataclisma",
+   "era": "IV",
+   "when": "alla fine dei cinque anni",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Mentre Loeth marcia sull'ultima roccaforte, dalle terre di Hayan esplode un nuovo cataclisma: il male imprigionato nelle viscere del Meerswelt si scatena e vomita mostri e demoni sulla costa. Loeth ordina la ritirata e resta indietro a combattere per coprire i suoi uomini. Prima di cadere affida la spada a un guerriero fedele: la stirpe dovrà custodirla fino al giorno in cui un nuovo Akbe saprà domare la Tigre Blu. Poi scompare con Indra nell'ombra.",
+   "note": "",
+   "links": [
+    {
+     "code": "F02",
+     "why": "la fuga dei sopravvissuti"
+    },
+    {
+     "code": "A02",
+     "why": "l'ultima cosa che Indra ricorda è Loeth che rinfodera la spada"
+    }
+   ],
+   "theories": [
+    "T04"
+   ],
+   "sources": "Backstory, capp. 5–6"
+  },
+  {
+   "code": "F02",
+   "title": "Le Arche",
+   "era": "IV",
+   "when": "secondo cataclisma",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Ayeth, Somma Veggente e madre di Lebannen Akbe, ha la visione di arche di luce che solcano il cielo. I Veggenti di Roke sigillano pergamene e reliquie nelle Bag of Holding. Trentuno Akbe, con nobili e generali fedeli, venti tigri da guerra e quindici cuccioli, lasciano il Meerswelt mentre il pianeta viene inghiottito.",
+   "note": "",
+   "links": [
+    {
+     "code": "E01",
+     "why": "il primo approdo"
+    }
+   ],
+   "theories": [
+    "T05"
+   ],
+   "sources": "Backstory, cap. 6"
+  },
+  {
+   "code": "E01",
+   "title": "Bral: gli Akbe mercenari",
+   "era": "V",
+   "when": "dopo l'esodo",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Le Arche approdano su Bral, un asteroide remoto e aspro. Senza regno né sudditi, gli Akbe diventano mercenari: le loro tigri e i guerrieri marchiati con le rune dei giganti diventano una delle forze più temute del sistema.",
+   "note": "",
+   "links": [
+    {
+     "code": "E02",
+     "why": "la ricerca di una nuova terra"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 6"
+  },
+  {
+   "code": "E02",
+   "title": "El-Beth-El: la nuova casa",
+   "era": "V",
+   "when": "secoli dopo l'esodo",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Guidati da Lebannen e dai Veggenti, gli Akbe trovano su El-Beth-El una terra che ricorda le giungle del Muro di Brysta. Su un'isola protetta dal mare costruiscono una fortezza di pietra, giungla e torri di cristallo. Al centro c'è il Santuario dei Veggenti, una serra vivente con il soffitto di cristallo, e nel suo padiglione centrale riposa la Spada Sacra. Gli Akbe restano indipendenti e diventano la principale forza mercenaria del sistema.",
+   "note": "",
+   "links": [
+    {
+     "code": "A01",
+     "why": "qui nasce Arren"
+    },
+    {
+     "code": "C19",
+     "why": "Aywin rivela che gli Akbe hanno ricostruito su El-Beth-El l'antico culto dei Veggenti"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 6 (dove la destinazione è chiamata Xan; corretto in El-Beth-El)"
+  },
+  {
+   "code": "A01",
+   "title": "La nascita di Arren",
+   "era": "VI",
+   "when": "circa 600 anni dopo la caduta del Meerswelt",
+   "type": "event",
+   "chars": [
+    "arren",
+    "elt"
+   ],
+   "fams": [],
+   "text": "A capo degli Akbe c'è Ennas, rimasto senza figli. Sono le sue sorelle a garantire la continuità della famiglia: Ener dà alla luce Arren, Hatha qualche mese prima ha avuto Elt. I due cugini crescono come gli unici bambini della fortezza: Arren è selvaggio e insofferente alle regole, Elt disciplinato e sempre bisognoso di dimostrarsi migliore.",
+   "note": "",
+   "links": [
+    {
+     "code": "A02",
+     "why": "la scelta della spada tra i due cugini"
+    }
+   ],
+   "theories": [],
+   "sources": "Backstory, cap. 7"
+  },
+  {
+   "code": "A02",
+   "title": "L'Artiglio sceglie Arren",
+   "era": "VI",
+   "when": "Arren ha circa 17 anni",
+   "type": "event",
+   "chars": [
+    "arren",
+    "elt",
+    "tenar"
+   ],
+   "fams": [],
+   "text": "Il vecchio Sommo Veggente annuncia che uno dei due cugini sarà il nuovo cavaliere della Tigre Blu: la spada sceglierà nell'anniversario dell'incoronazione di Loeth. Tutti danno per scontato Elt. Un mese dopo il Sommo Veggente muore e Tenar diventa Somma Veggente. La sera prima della cerimonia Tenar lega le mani di Arren, Elt ed Ennas con un nastro blu-verde e fa loro giurare di sostenere il prescelto. All'alba Elt non riesce a sfoderare la spada. Arren sente nella mente il nome «Indra», e la lama esce dal fodero con un bagliore azzurro: dietro di lui appare la Tigre Blu. Tenar sapeva già tutto da una lettura dei tarocchi fatta per Elt.",
+   "note": "",
+   "links": [
+    {
+     "code": "A03",
+     "why": "la lettura per il nuovo capo"
+    },
+    {
+     "code": "C08",
+     "why": "il messaggio di Tenar dopo la sua morte"
+    }
+   ],
+   "theories": [
+    "T07"
+   ],
+   "sources": "Backstory, cap. 7"
+  },
+  {
+   "code": "A03",
+   "title": "La lettura dei tarocchi",
+   "era": "VI",
+   "when": "subito dopo l'investitura",
+   "type": "event",
+   "chars": [
+    "arren",
+    "tenar",
+    "elt"
+   ],
+   "fams": [],
+   "text": "Nello studio della Somma Veggente, Tenar legge le sette carte per il nuovo capo degli Akbe. Il viaggiatore è l'Asso di Calici; ciò che manca è il Due di Corone; ciò che si lascia alle spalle è l'Otto di Lame; ciò che lo aspetta è il Re di Lame; gli ostacoli sono il Paggio di Scettri; ciò che guadagnerà è il Sei di Calici; la destinazione è l'Arcidruida. Elt diventa il suo braccio destro e la sua ombra. Anni dopo Tenar gli predice un trono, e poco dopo arriva la notizia di un torneo indetto da una famiglia reale elfica per scegliere i propri successori.",
+   "note": "",
+   "links": [
+    {
+     "code": "C00",
+     "why": "da qui la storia prosegue nella parte ancora da completare"
+    },
+    {
+     "code": "C14",
+     "why": "Arren usa di nuovo l'Arcidruida e il Re nella lettura per Sakuma"
+    }
+   ],
+   "theories": [
+    "T03"
+   ],
+   "sources": "Backstory, cap. 7"
+  },
+  {
+   "code": "C00",
+   "title": "Dal torneo elfico a El-Beth-El",
+   "era": "VII",
+   "when": "da definire",
+   "type": "todo",
+   "chars": [
+    "arren",
+    "hor",
+    "demir",
+    "minerva",
+    "darius"
+   ],
+   "fams": [],
+   "text": "Mancano gli eventi tra la partenza di Arren per il torneo e la prima sessione di cui abbiamo appunti (19/05/25). Dagli appunti successivi si sa che in questo periodo nasce la Mano, si svolge il Concilio, Arren muore e la sua anima viene bruciata, e che Leor muore e rinasce come Hor. Da compilare a mano.",
+   "note": "",
+   "links": [
+    {
+     "code": "A03",
+     "why": "l'ultimo evento noto del background"
+    },
+    {
+     "code": "C19",
+     "why": "la morte di Leor"
+    }
+   ],
+   "theories": [],
+   "sources": ""
+  },
+  {
+   "code": "C01",
+   "title": "Il patto del Cecchino del Deserto",
+   "era": "VII",
+   "when": "sessione del 19/05/25",
+   "type": "event",
+   "chars": [
+    "demir",
+    "minerva",
+    "sabra"
+   ],
+   "fams": [
+    "Shawel"
+   ],
+   "text": "Minerva sviene a causa degli Hossine. Sabra porta Demir da un Lord Commerciante di Khor Galimah, che si rivela Ziril, il Cecchino del Deserto, con indosso una cappa dorata: «Io sono il nemico numero uno delle grandi famiglie. Non sono nemico tuo». Gli offre un accordo: lui ha bisogno di una base sicura, Demir di qualcuno che sappia uccidere le grandi famiglie, che reagiranno quando il culto dell'Unico si espanderà. Un Cavaliere del Nareb nomina Borin, capo della rivoluzione e «legittimo erede dell'Armal». Beca Shawel racconta che Siona Shawel indaga su nuove malattie a El-Beth-El.",
+   "note": "",
+   "links": [
+    {
+     "code": "C15",
+     "why": "i progetti di Demir per El-Beth-El"
+    },
+    {
+     "code": "C07",
+     "why": "Borin resta tra gli ultimi nemici"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C02",
+   "title": "Un uomo esce dalla Piramide",
+   "era": "VII",
+   "when": "sessione del 19/05/25",
+   "type": "event",
+   "chars": [
+    "arren",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Telio riferisce che la Guardia della Piramide ha visto un uomo, nudo e senza armatura, uscire dalla Piramide senza lasciare orme d'ingresso. Il momento coincide con il malore di Arren e con il tempo di reincarnazione della Piramide: forse una parte della sua anima è rinata lì dentro. Il gruppo salpa per la Piramide.",
+   "note": "",
+   "links": [
+    {
+     "code": "C03",
+     "why": "cosa trova Arren nella Piramide"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C03",
+   "title": "Le visioni della Piramide",
+   "era": "VII",
+   "when": "sessione del 26/05/25",
+   "type": "event",
+   "chars": [
+    "arren",
+    "elt",
+    "hor",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Arren si risveglia nella Piramide. La polvere mostra movimenti recenti, la porta del livello successivo è scalfita e qualcosa respira nel buio. Arriva una serie di visioni: Arren morirà molto presto, Elt giacerà a terra maciullato nel sangue, Hor stringe un coltello sporco del sangue degli Akbe. «Stai vedendo la Cosa, la Verità nella sua interezza.» Arren sa che questa versione di lui deve morire, e che quella morte è legata a ciò che ha ucciso i vecchi Akbe. Alla fine vede Telio che lo fissa.",
+   "note": "",
+   "links": [
+    {
+     "code": "C04",
+     "why": "l'incontro con l'altro Arren"
+    },
+    {
+     "code": "C19",
+     "why": "Elt, Hor e il sangue degli Akbe"
+    }
+   ],
+   "theories": [
+    "T12"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C04",
+   "title": "Arren uccide l'Arren nudo",
+   "era": "VII",
+   "when": "sessione del 26/05/25",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Nella periferia di Schukkur il gruppo trova un altro Arren, e il «nostro» Arren lo uccide. Nel buio che scende si sente lo sguardo di un dio senza un occhio, e infine una risata. Fuori dal gioco: qualcuno era nella Piramide, cercava di entrare, e respirava.",
+   "note": "",
+   "links": [
+    {
+     "code": "C25",
+     "why": "anni dopo dalla Piramide emerge una figura a cui manca l'occhio sinistro"
+    }
+   ],
+   "theories": [
+    "T12"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C05",
+   "title": "La Piramide si consuma",
+   "era": "VII",
+   "when": "sessione del 09/06/25",
+   "type": "event",
+   "chars": [
+    "arren",
+    "hor"
+   ],
+   "fams": [
+    "Ntsu"
+   ],
+   "text": "La Piramide sta cambiando. La vasca si è prosciugata e il suo fondo si alza, i bassorilievi del labirinto si fermano e si appianano in ossidiana liscia, e in alcuni punti il soffitto si apre: entro due o tre anni la struttura sarà consumata. Dopo la morte di Arren sono comparsi bassorilievi che lo raffigurano. Una porta incrinata si apre su una stanza a cupola dove tutti i flussi convergono verso una Sfera di Ossidiana. La magia di identificazione fa male, come se puntasse a qualcosa che non esiste, mentre il tocco si sincronizza: la sfera contiene tutte le memorie di Arren. Il tempo dentro la Piramide scorre più veloce che fuori.",
+   "note": "",
+   "links": [
+    {
+     "code": "C25",
+     "why": "la Piramide si sbriciola"
+    },
+    {
+     "code": "C31",
+     "why": "la sfera sullo spuntone"
+    }
+   ],
+   "theories": [
+    "T11"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C06",
+   "title": "La Nocceraia d'oro",
+   "era": "VII",
+   "when": "sessione del 23/09/25",
+   "type": "event",
+   "chars": [
+    "hor",
+    "demir",
+    "arren"
+   ],
+   "fams": [
+    "Ntsu"
+   ],
+   "text": "Il gruppo cerca la Nocceraia d'oro, una nave a testa di martello degli Ntsu proveniente da Jetaras. Queste navi, come sa Hor, sono studioli arcani che ospitano maghi di altissimo livello. Prima bisogna superare un'orda di Gnoll legata a Tharizdun dall'effetto «Tocco di Tharizdun». Il gruppo si chiede se fidarsi dei presagi di Demir anziché di quelli di Arren, poi entra nella nave in scivolata, con altri Gnoll a bordo.",
+   "note": "",
+   "links": [
+    {
+     "code": "G08",
+     "why": "Tharizdun era già nella storia di Dodici"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C07",
+   "title": "Telio è il Veggente",
+   "era": "VII",
+   "when": "sessione del 20/10/25",
+   "type": "event",
+   "chars": [
+    "arren",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Arren fa le sue rivelazioni sulla storia: Telio è il Veggente, e la Piramide potrebbe essere il suo tempio. Il gruppo tratta con il diavolo Pit, ma per l'inflazione i prezzi sono troppo alti. Il Concilio si chiude e la geopolitica di El-Beth-El è in gran parte sistemata. La Mano si stringe sugli ultimi che resistono: la Sorella di Ferro e Borin.",
+   "note": "",
+   "links": [
+    {
+     "code": "M06",
+     "why": "Telio il Veggente del mito"
+    },
+    {
+     "code": "C22",
+     "why": "Telio nega di essere il Veggente di El-Beth-El"
+    }
+   ],
+   "theories": [
+    "T01",
+    "T11"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C08",
+   "title": "Il messaggio di Tenar",
+   "era": "VII",
+   "when": "sessione del 18/11/25",
+   "type": "event",
+   "chars": [
+    "arren",
+    "tenar"
+   ],
+   "fams": [],
+   "text": "Di notte un incantesimo sveglia Arren: nella stanza compare un cielo stellato e poi la figura di Tenar. «Arren, se vedi questo il mio corpo è perito. La mia anima è incatenata. Torna al tempio, cerca le risposte che non ti posso più dare. Trovami! Liberami!» Il messaggio si chiude con il simbolo della Spirale di Tharizdun, accanto a uno schema dell'Opazio in cui il pianeta più brillante è il Tempio.",
+   "note": "",
+   "links": [
+    {
+     "code": "G08",
+     "why": "il simbolo di Tharizdun al villaggio di Dodici"
+    },
+    {
+     "code": "C21",
+     "why": "nessuna notizia della Veggente"
+    }
+   ],
+   "theories": [
+    "T04"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C09",
+   "title": "La testa di Folarkimor",
+   "era": "VII",
+   "when": "sessione del 18/11/25",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [
+    "Shawel"
+   ],
+   "text": "Nel tempio di Moradin Arren interroga la testa di Folarkimor, primo missionario della Forgia. La bestia che vi era rinchiusa era un demone dell'oblio, una creatura della fine che li aveva seguiti. Il murale mostra il futuro: «il ragazzo contro il dodicesimo oblio». La Fonte è la luce che li ha portati su questo pianeta e ha dato loro la Vista e il Futuro, e il demone vuole divorarla. Nella cella c'è sangue di rakshasa. Carlo nota che il castello di Yake è costruito a cipolla, come la Piramide.",
+   "note": "",
+   "links": [
+    {
+     "code": "C10",
+     "why": "Telio parla del dodicesimo oblio"
+    },
+    {
+     "code": "M07",
+     "why": "la struttura di Roke e Yake"
+    }
+   ],
+   "theories": [
+    "T07",
+    "T11",
+    "T13"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C10",
+   "title": "Telio a carte scoperte",
+   "era": "VII",
+   "when": "sessione del 18/11/25",
+   "type": "event",
+   "chars": [
+    "arren",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Arren manda un Sending a Telio («è ora di parlare a carte scoperte») e lo incontra da solo. Telio racconta di essere nato in un piccolo villaggio fuori dalle Ultracittà (Getaras, Mitsumoro) e che sua madre, che gli diede il nome, fu stuprata e uccisa dai predoni di Jetaras. Le sue qualità sono il silenzio, il segreto e l'arte di fare la guerra senza che nessuno la veda. Poi chiede: «Hai mai sentito parlare del dodicesimo oblio? La dodicesima venuta della dea incatenata. La Fine. Ma se è la fine, perché è la dodicesima volta?».",
+   "note": "",
+   "links": [
+    {
+     "code": "M06",
+     "why": "il Telio del mito"
+    },
+    {
+     "code": "C09",
+     "why": "il ragazzo contro il dodicesimo oblio"
+    }
+   ],
+   "theories": [
+    "T01",
+    "T04",
+    "T13"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "MV01",
+   "title": "La Madama Velata, n. 1",
+   "era": "VII",
+   "when": "data da confermare",
+   "type": "mv",
+   "chars": [
+    "arren",
+    "hor"
+   ],
+   "fams": [
+    "Amoako",
+    "Ousssek",
+    "Kesk"
+   ],
+   "text": "Il primo numero della rubrica scritta da Arren. Jojo Amoako, finora impermeabile ai corteggiatori, sembra aver perso la testa per un membro della casata da poco ascesa su El-Beth-El. Si annuncia il fidanzamento tra Aracne Oussek e il paffuto Xiang Biao, due promessi che non riescono a stare nella stessa stanza. Infine, insinuazioni sulle «cure» poco convenzionali della famiglia Kesk e del giovane Roar Kesk.",
+   "note": "",
+   "links": [
+    {
+     "code": "MV02",
+     "why": "il numero successivo"
+    }
+   ],
+   "theories": [],
+   "sources": "MadamaVelata_01.pdf"
+  },
+  {
+   "code": "MV02",
+   "title": "La Madama Velata, n. 2",
+   "era": "VII",
+   "when": "data da confermare",
+   "type": "mv",
+   "chars": [
+    "arren",
+    "hor",
+    "minerva"
+   ],
+   "fams": [
+    "Ousssek",
+    "Mitsumoro",
+    "Amoako",
+    "Hai",
+    "Wueng",
+    "Kesk",
+    "Shawel",
+    "Sifu",
+    "Sudriz"
+   ],
+   "text": "Il matrimonio tra Aracne Oussek e Tokimori Mitsumoro finisce nel sangue: arrivano Cappe Dorate armate e Draghi Antichi, e quasi nessuna casata ne esce indenne. Tra i caduti ci sono Minerva Oussek della Mano, Siona Shawel, Vukasin Sudriz e la stessa sposa. Jojo e Hor smentiscono il fidanzamento, con una scenata di Arren nel ruolo di cupido. Vukasin Sudriz passava le sue notti con una dama già sposata. Aracne contava sui doni nuziali per ripianare i debiti accumulati nei complotti contro la sorella.",
+   "note": "",
+   "links": [
+    {
+     "code": "C11",
+     "why": "Hor racconta la resurrezione di Minerva"
+    },
+    {
+     "code": "C16",
+     "why": "Jang è grato per il sangue versato al matrimonio"
+    },
+    {
+     "code": "C28",
+     "why": "Aracne, sorella di Minerva, la avverte"
+    }
+   ],
+   "theories": [],
+   "sources": "MadamaVelata_02.pdf"
+  },
+  {
+   "code": "MV03",
+   "title": "La Madama Velata, n. 3",
+   "era": "VII",
+   "when": "data da confermare",
+   "type": "mv",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "[Contenuto da inserire.]",
+   "note": "",
+   "links": [],
+   "theories": [],
+   "sources": ""
+  },
+  {
+   "code": "C11",
+   "title": "La Crociata su Progomeneus",
+   "era": "VII",
+   "when": "sessione del 02/03/26",
+   "type": "event",
+   "chars": [
+    "darius",
+    "minerva",
+    "hor",
+    "arren"
+   ],
+   "fams": [
+    "Sudriz",
+    "Rivera",
+    "Shawel",
+    "Eretici",
+    "Ousssek"
+   ],
+   "text": "Nei flashback Hor descrive la resurrezione di Minerva, Minerva cerca senza successo di infiltrare spie tra gli Oussek attraverso Zaurathi, e Arren addestra personalmente l'esercito per sei mesi («Noi o contro di noi»). Al fronte la Mano è con i Sudriz, i Rivera e gli Shawel, mentre le altre famiglie avanzano nel sistema di Xan. Il compito è tenere le posizioni su Progomeneus e colpire la fortezza di Manduun, centro della ricerca bio-arcana dei Corrisangue. Darius propone alle Cappe Dorate un accordo senza spargimento di sangue; in segreto il gruppo pianifica di rubare le ricerche del reparto di Bio-Divinazione.",
+   "note": "",
+   "links": [
+    {
+     "code": "C12",
+     "why": "l'infiltrazione"
+    },
+    {
+     "code": "MV02",
+     "why": "la morte di Minerva al matrimonio"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C12",
+   "title": "Dentro Manduun",
+   "era": "VII",
+   "when": "sessione del 12/03/26",
+   "type": "event",
+   "chars": [
+    "darius",
+    "demir"
+   ],
+   "fams": [
+    "Gith",
+    "Eretici"
+   ],
+   "text": "Manduun è un bunker di decine di piani, protetto da glifi, balestre arcane, un arco di teletrasporto e cinquecento soldati, ed è guidato da un drago di bronzo detto il Professore. Il gruppo entra dalle fogne. Un teschio, Kralzeel, parla del «Traditore, figlio della Liberatrice». Asher, un Gith mago e contatto del culto di Darius, li maschera da scienziati con Seeming. Rivela che Tiamat è imprigionata nel settimo inferno per volontà di Asmodeo e che Jarvaal è in questo Opazio, e accenna a un'arma maledetta di Eberron. Consiglia a Demir di parlare con il Mind Flayer prigioniero.",
+   "note": "",
+   "links": [
+    {
+     "code": "C13",
+     "why": "l'incontro con il Mind Flayer"
+    },
+    {
+     "code": "C16",
+     "why": "Jang, Jarval e l'arma di Eberron"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C13",
+   "title": "Lena, la Mind Flayer di Manduun",
+   "era": "VII",
+   "when": "sessione del 18/03/26",
+   "type": "event",
+   "chars": [
+    "demir",
+    "arren",
+    "hor",
+    "minerva",
+    "darius",
+    "elfa",
+    "telio"
+   ],
+   "fams": [
+    "Gith"
+   ],
+   "text": "Nella prigione di Bio-Divinazione una Mind Flayer inchiodata al muro aspetta Demir da tempo. Ha quasi novecento anni. Prima era una donna delle Steppe d'Oro del Meerswelt, di un clan che si era lasciato le sabbie alle spalle, e venerava il Creatore, Kaleesh: l'Unico, quello con l'occhio mancante. Quando Orfeo, principe dei Gith, costrinse il cervello antico a nascondersi, lei ne fu separata e ritrovò i ricordi. Racconta la parabola del padre, dei due figli e del ratto. A Demir predice un nemico implacabile dal «volto bianco» di cui non può tradire il nome: «lo amo troppo». Le sue profezie per il gruppo: per Arren «riprendi l'anima e stai all'occhio del Grande Disegno», per Hor «la Piramide si sta per riattivare». Chiede di essere uccisa: c'era un volto che voleva rivedere, e ora l'ha visto. Si chiama Lena. Quella notte Demir sogna una creatura che lo osserva da dietro le spalle.",
+   "note": "",
+   "links": [
+    {
+     "code": "G09",
+     "why": "l'elfa della steppa"
+    },
+    {
+     "code": "C24",
+     "why": "Telio racconta la stessa parabola con una frase in più"
+    },
+    {
+     "code": "C26",
+     "why": "la creatura della Bag of Holding"
+    }
+   ],
+   "theories": [
+    "T02",
+    "T03",
+    "T05"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C14",
+   "title": "La profezia per Sakuma",
+   "era": "VII",
+   "when": "sessione del 09/04/26",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [
+    "Mitsumoro"
+   ],
+   "text": "Arren avverte Sakuma Mitsumoro: «Non intervenire alla Crociata, o prevedo grandi sciagure per la tua casata». Sakuma si teletrasporta davanti a lui: è fortissimo, come i suoi antenati, ma ha paura di morire come loro. Arren gli fa una lettura: l'Arcidruida (la forza selvaggia, il pianeta brado dei Gith), la Stella della Via, il Re come comandante saggio che teme la tirannia, gli Spiriti Gemelli. Poi gli rivela un segreto: entro tre mesi Arren otterrà una nuova anima.",
+   "note": "",
+   "links": [
+    {
+     "code": "A03",
+     "why": "le stesse carte della lettura di Tenar"
+    },
+    {
+     "code": "C25",
+     "why": "il recupero dell'anima"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C15",
+   "title": "La Comunità Unica Mineraria",
+   "era": "VII",
+   "when": "sessione del 09/04/26",
+   "type": "event",
+   "chars": [
+    "demir",
+    "zilach"
+   ],
+   "fams": [
+    "Amoako"
+   ],
+   "text": "L'ossidiana su El-Beth-El è rischiosa da estrarre per i vermi giganti e il caldo, ed essendo El-Beth-El una luna di Wandaker gli Amoako ne tengono libero il campo. Demir vuole un'opera pubblica gigantesca che dia lavoro, rilanci l'economia e diventi un orgoglio nazionale: la «Comunità Unica Mineraria». I candidati partner sono Alayon Petkas (devoto di Vecna, concorrente di Rimes), Lord Ziloth (stupido e avido) e la Regina Zi'lach, l'opzione migliore.",
+   "note": "",
+   "links": [
+    {
+     "code": "C22",
+     "why": "Demir e la Regina Madre Zilach"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C16",
+   "title": "Jang e il segreto di Eberron",
+   "era": "VII",
+   "when": "sessione del 09/04/26",
+   "type": "event",
+   "chars": [
+    "darius"
+   ],
+   "fams": [
+    "Wueng"
+   ],
+   "text": "Jang, grato per il sangue versato al matrimonio, parla con Darius. Jarval, il Prescelto di Tiamat, ha dalla regina un compito più importante: tenere a bada ciò che lei teme. Si trova su Brion, chiuso da uno scudo che solo un incantesimo arcano di almeno settimo livello può bucare, al prezzo di una capacità persa per sempre. Si dice che su Brion sia rinchiuso un mago del Meerswelt. L'arma dei Weng viene da Eberron, dove gli dèi sono bestie antiche e carnali: è Rak Tulknesh, manifestazione di guerra e morte, con cui i Weng minacciano di distruggere Draconia. Le tre famiglie diffidano l'una dell'altra. «Fuoco e vendetta!» Si apre un portale verso l'inferno.",
+   "note": "",
+   "links": [
+    {
+     "code": "C12",
+     "why": "Asher accenna alla stessa arma"
+    },
+    {
+     "code": "C18",
+     "why": "Darius battezza Ciakrak nel nome di Tiamat"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C17",
+   "title": "Telio danza attorno alla piramide",
+   "era": "VII",
+   "when": "sessione del 09/04/26",
+   "type": "event",
+   "chars": [
+    "hor",
+    "telio"
+   ],
+   "fams": [],
+   "text": "Hor lancia uno Scrying su Telio, che attraversa una membrana e mostra una caverna buia con una forma a piramide. Davanti, seduto a gambe incrociate, c'è un uomo nudo bianco come il latte, con gli occhi chiusi e il sorriso a trentadue denti da bambino. Gira la testa verso la sfera, dice ridendo «Guarda che bello», e si mette a danzare attorno alla piramide.",
+   "note": "",
+   "links": [
+    {
+     "code": "G05",
+     "why": "già ai tempi di Dodici il Sergente girava nudo per i campi la notte"
+    },
+    {
+     "code": "C31",
+     "why": "la caverna crolla e la Piramide diventa visibile"
+    }
+   ],
+   "theories": [
+    "T01",
+    "T02"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C18",
+   "title": "L'evasione di Ciakrak",
+   "era": "VII",
+   "when": "sessione del 22/04/26",
+   "type": "event",
+   "chars": [
+    "darius",
+    "hor",
+    "demir",
+    "arren"
+   ],
+   "fams": [
+    "Hai"
+   ],
+   "text": "Il gruppo fa evadere Ciakrak, che odia Munir perché non stava dalla parte dei Trikreen. Ciakrak spiega che Nik, il cuore di Aepra, è anche il suo centro geologico: farla crollare provocherebbe una reazione a catena da cui solo i Trikreen sarebbero al sicuro. Chiede di assassinare Bakrich, capo dei Tarkich. Darius lo battezza nel nome di Tiamat. Con loro evadono anche Kinorlos Aywin, leggendario mago con un occhio solo e Creatore per gli Hai, e uno Zodar, creatura antichissima dalla pelle di ossidiana che può parlare solo tre volte nella vita.",
+   "note": "",
+   "links": [
+    {
+     "code": "C19",
+     "why": "Aywin risponde alle domande"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C19",
+   "title": "Chi ha ucciso Leor",
+   "era": "VII",
+   "when": "sessione del 22/04/26",
+   "type": "event",
+   "chars": [
+    "hor",
+    "elt",
+    "arren"
+   ],
+   "fams": [],
+   "text": "Aywin, che ha visto con i suoi occhi il Meerswelt, racconta di un antico culto che leggeva il futuro nelle stelle come un manuale di istruzioni e che conosceva la vera sostanza dell'universo. Quella conoscenza andò perduta nel cataclisma, e gli Akbe ricostruirono il culto su El-Beth-El senza la visione d'insieme. Poi qualcuno donò agli Akbe milioni di monete d'oro per due cose: la creazione di un «uomo macchina» senza emozioni che reggesse il Grande Disegno, e l'omicidio di un mago abbastanza potente da essere un pericolo per El-Beth-El. Le due richieste puntavano a Leor, giovane Arcimago della Cabala di Q'err. Gli Akbe mandarono un uomo solo, nel silenzio: Elt Akbe. Leor è poi rinato come Hor.",
+   "note": "",
+   "links": [
+    {
+     "code": "E02",
+     "why": "il culto ricostruito dagli Akbe"
+    },
+    {
+     "code": "C03",
+     "why": "la visione di Hor con il coltello sporco di sangue Akbe"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C20",
+   "title": "Appunti sparsi",
+   "era": "VII",
+   "when": "sessione del 08/06/26",
+   "type": "event",
+   "chars": [
+    "arren",
+    "elt",
+    "hor",
+    "demir"
+   ],
+   "fams": [
+    "Mitsumoro"
+   ],
+   "text": "Yuuki non è davvero figlio di Koga Mitsumoro. Dopo il recupero dell'anima di Arren bisognerà parlare con Elt Akbe, anche dell'assassinio di Hor. Restano da chiarire la creatura nella Bag of Holding di Demir e la danza di Telio attorno alla piramide.",
+   "note": "",
+   "links": [
+    {
+     "code": "C19",
+     "why": "l'assassinio di Leor"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C21",
+   "title": "Lo stato di El-Beth-El",
+   "era": "VII",
+   "when": "sessione del 16/06/26",
+   "type": "event",
+   "chars": [
+    "arren"
+   ],
+   "fams": [],
+   "text": "Le truppe dei Samarkoi arrivano fino al fiume, mentre le terre a sud restano selvagge. Della Veggente non si sa più nulla. La costa di Ashran è sotto il controllo della Mano, ma le mille isolette sono in mano ai pirati e i ribelli di Ashran sembrano finanziati da fuori. La regina dei Samarkoi lascia predicare il Cane: la voce dell'Unico si diffonde e lei si fa chiamare «la Prescelta del Profeta». Khor Galimah prospera anche grazie ai pellegrini, ma il centro è invaso dagli Hossine e Barda deve aumentare i soldati. Arren è il Ministro Modronico.",
+   "note": "",
+   "links": [
+    {
+     "code": "C08",
+     "why": "la Veggente scomparsa"
+    },
+    {
+     "code": "C29",
+     "why": "Khor Galimah brucia"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C22",
+   "title": "Il nocciolo nelle ceneri",
+   "era": "VII",
+   "when": "sessione del 16/06/26",
+   "type": "event",
+   "chars": [
+    "demir",
+    "hor",
+    "telio",
+    "zilach"
+   ],
+   "fams": [],
+   "text": "Demir mostra alla Regina Madre Zilach una visione del Giorno della Spada, il giorno dell'apocalisse, e prende un «nocciolo» dalle ceneri della madre, senza accorgersi di una terza figura che si allontana nelle catacombe. Hor parla con Telio, che nega di essere il Veggente di El-Beth-El (potrebbe essere Zero Lothris, o Tenar), poi cancella dalla memoria della Regina Madre la visione di Demir.",
+   "note": "",
+   "links": [
+    {
+     "code": "C07",
+     "why": "Telio era stato identificato come il Veggente"
+    },
+    {
+     "code": "C01",
+     "why": "il primo «nocciolo», nella trattativa con Ziril"
+    }
+   ],
+   "theories": [
+    "T01"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C23",
+   "title": "Minerva e Zaurathi",
+   "era": "VII",
+   "when": "sessione del 16/06/26",
+   "type": "event",
+   "chars": [
+    "minerva"
+   ],
+   "fams": [],
+   "text": "Minerva e Zaurathi si baciano e si mordono a vicenda la lingua, per avere un segno di riconoscimento che un mutaforma difficilmente potrebbe conoscere. Minerva compra una Robe of Eyes.",
+   "note": "",
+   "links": [
+    {
+     "code": "C11",
+     "why": "Zaurathi come tramite per le spie tra gli Oussek"
+    },
+    {
+     "code": "C27",
+     "why": "Zaurathi e Sabra fuori dalla città durante l'assedio"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "MV04",
+   "title": "La Madama Velata, n. 4",
+   "era": "VII",
+   "when": "sessione del 16/06/26",
+   "type": "mv",
+   "chars": [
+    "arren"
+   ],
+   "fams": [
+    "Caillot",
+    "Carxus"
+   ],
+   "text": "Arren pubblica il quarto numero, scritto durante la sessione. In risposta i Calliot e i Carxus scrivono alla Mano chiedendo di mettere a tacere la Madama Velata. [Contenuto del numero da inserire.]",
+   "note": "",
+   "links": [
+    {
+     "code": "C26",
+     "why": "l'ambasciatore dei Callioth consiglia di lasciar andare Minerva"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C24",
+   "title": "Le dimissioni di Telio",
+   "era": "VII",
+   "when": "sessione del 30/06/26",
+   "type": "event",
+   "chars": [
+    "telio",
+    "hor"
+   ],
+   "fams": [],
+   "text": "Telio si dimette: «Amon cadrà presto, e quel che segue sono i passi in cui tutti sono intrappolati». Racconta la parabola del padre e dei due figli: davanti a un ratto agonizzante, uno vuole curarlo e l'altro ucciderlo; il padre propone un gioco con regole sue e resta a custodire il ratto. Rispetto alla versione di Aywin c'è una frase in più: «com'è ironico e divertente che, mentre quei poverini decidono, tu rimani soltanto bloccato qui a soffrire per me». Chiede di sapere, per la volta successiva, chi è lui. Un Detect Thoughts restituisce solo qualcosa di simile a un sogno.",
+   "note": "",
+   "links": [
+    {
+     "code": "C13",
+     "why": "Lena racconta la stessa parabola"
+    },
+    {
+     "code": "C30",
+     "why": "Hor chiede all'Omnissiah se Telio è il Topo"
+    },
+    {
+     "code": "G05",
+     "why": "la prima parabola del Sergente"
+    }
+   ],
+   "theories": [
+    "T02"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C25",
+   "title": "La Piramide si sbriciola",
+   "era": "VII",
+   "when": "sessione del 30/06/26",
+   "type": "event",
+   "chars": [
+    "arren",
+    "hor"
+   ],
+   "fams": [],
+   "text": "In origine la Piramide aveva quattro piani: il labirinto, la vasca e altri due. Da quando Arren ha bruciato la sua anima, il labirinto si è completamente sbriciolato e i corridoi sono lisci. Dalla Piramide si sta «de-statuizzando» una figura grezza a cui manca l'occhio sinistro. Mario Rossi si avvicina alla Piramide, e Arren lo ferma concedendogli che il recupero della sua anima avverrà in una cripta non meglio definita.",
+   "note": "",
+   "links": [
+    {
+     "code": "C05",
+     "why": "l'inizio della consunzione"
+    },
+    {
+     "code": "C31",
+     "why": "Demir ottiene entrambi gli occhi"
+    }
+   ],
+   "theories": [
+    "T05",
+    "T11"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C26",
+   "title": "Il Dolore di Thorog",
+   "era": "VII",
+   "when": "sessione del 30/06/26",
+   "type": "event",
+   "chars": [
+    "arren",
+    "demir",
+    "minerva"
+   ],
+   "fams": [
+    "Caillot",
+    "Ousssek",
+    "Amoako",
+    "Wueng"
+   ],
+   "text": "Arren richiama la creatura della Bag of Holding per chiederle di uccidere Demryd. Un Legend Lore sulla sua saliva rivela che è una forma di odio puro: una donna morta per gli abusi di un uomo, tornata per vendicarsi. È un dono di Thorog, dio del dolore fisico, che risponde alle preghiere dei parenti delle vittime di violenza. Il piano è chiedere a Mylodra di scatenare il Dolore di Thorog contro Demryd. L'ambasciatore dei Callioth consiglia di lasciar andare Minerva. Nemici degli Oussek: gli Amoako e i Weng.",
+   "note": "",
+   "links": [
+    {
+     "code": "C27",
+     "why": "la spada di Minerva diventa la creatura di Thorog"
+    },
+    {
+     "code": "C13",
+     "why": "il sogno di Demir sulla creatura che lo osserva"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C27",
+   "title": "La flotta Oussek",
+   "era": "VII",
+   "when": "sessione del 21/09/26",
+   "type": "event",
+   "chars": [
+    "arren",
+    "demir",
+    "elt",
+    "sabra",
+    "zilach"
+   ],
+   "fams": [
+    "Ousssek"
+   ],
+   "text": "La flotta Oussek arriverà a giorni, con otto pedine e due volte e mezzo le truppe della Mano. La corte (Rime, Barda, Mado) viene mandata a Onolulu. Sabra e Zaurathi sono fuori città, Zilach ed Elt altrove, insieme. I Trikreen arrivano su una nave in apparenza commerciale. Il piano: quando il nemico sarà entrato, far crollare i quartieri di Trapasso di Jhalil, Matracchi, Luce del Sael e Ponte Bashir riempiendo le catacombe di polvere di Ghakis, poi far tracimare il fiume. Promemoria: la spada di Minerva nella sabbia diventa la creatura di Thorog e sbarra la strada alle truppe; una pellicola di Demir mostra due occhi e la spada di Minerva che si conficca nella Piramide.",
+   "note": "",
+   "links": [
+    {
+     "code": "C28",
+     "why": "la fuga di Minerva"
+    },
+    {
+     "code": "C29",
+     "why": "l'esito"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C28",
+   "title": "La fuga di Minerva",
+   "era": "VII",
+   "when": "sessione del 21/09/26",
+   "type": "event",
+   "chars": [
+    "minerva",
+    "arren"
+   ],
+   "fams": [
+    "Ousssek"
+   ],
+   "text": "Minerva manda un Sending alla sorella Aracne: accetta la sua proposta, Mylodra è stata localizzata e la Mano deve trattenere le sue truppe. Aracne la supplica: «Non vuole solo la tua testa, vuole tutto ciò che hai. I tuoi amici non sono tuoi amici. Scappa!». Due giorni prima dell'arrivo della flotta Minerva fugge dalla reggia con l'elmo del teletrasporto di Arren. Un Sending la raggiunge: sembra trovarsi nell'Abisso.",
+   "note": "",
+   "links": [
+    {
+     "code": "MV02",
+     "why": "Aracne e Minerva al matrimonio"
+    },
+    {
+     "code": "C26",
+     "why": "Mylodra"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C29",
+   "title": "Khor Galimah brucia",
+   "era": "VII",
+   "when": "sessione del 04/10/26",
+   "type": "event",
+   "chars": [
+    "arren",
+    "demir",
+    "hor"
+   ],
+   "fams": [
+    "Ousssek"
+   ],
+   "text": "La capitale di Khor Galimah è in fiamme. Le truppe della Mano marciano verso Rizmahal, mentre gli Oussek prendono tutto il territorio delle miniere di El-Bolghari.",
+   "note": "",
+   "links": [
+    {
+     "code": "C27",
+     "why": "il piano di difesa"
+    },
+    {
+     "code": "C31",
+     "why": "la stessa notte alla Piramide"
+    }
+   ],
+   "theories": [],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C30",
+   "title": "Hor, Vecna e l'Eterno",
+   "era": "VII",
+   "when": "sessione del 04/10/26",
+   "type": "event",
+   "chars": [
+    "hor",
+    "demir",
+    "telio"
+   ],
+   "fams": [
+    "Ntsu"
+   ],
+   "text": "Hor usa l'Omnissiah per chiedere se Telio è il Topo: in risposta, risate. Poi interroga Vecna, che fugge terrorizzato e recide il legame con lui. L'Eterno apre un portale con la sua tecnica innata e trascina Hor, insieme a una decina di Beholder zombie, nella parte ghiacciata di El-Beth-El. Hor si fa battezzare da Demir. Nel quadro emergono tre figure: l'Eterno (una catena di cloni), la corte (vampiri) e il Non-Morto (un lich).",
+   "note": "",
+   "links": [
+    {
+     "code": "C24",
+     "why": "la parabola del ratto"
+    }
+   ],
+   "theories": [
+    "T02"
+   ],
+   "sources": "appunti di sessione"
+  },
+  {
+   "code": "C31",
+   "title": "Il cielo senza stelle",
+   "era": "VII",
+   "when": "sessione del 04/10/26",
+   "type": "event",
+   "chars": [
+    "demir",
+    "hor",
+    "arren"
+   ],
+   "fams": [],
+   "text": "Demir sente un richiamo e il gruppo va alla Piramide. Demir affronta la forma con lo spuntone e ne esce con entrambi gli occhi. Si apre una stanza con una sfera su uno spuntone centrale. La Piramide vibra come se qualcosa la colpisse dall'alto, la caverna crolla e la Piramide diventa visibile da tutto il deserto. Poi il cielo perde tutte le sue stelle, e l'intero esercito si inginocchia davanti all'Unico. Al tavolo si chiarisce che l'occhio chiuso dell'Unico, e quello di Demir, è probabilmente il sinistro, mentre nel tempio di Tharizdun era l'opposto.",
+   "note": "",
+   "links": [
+    {
+     "code": "G08",
+     "why": "le sfere e gli occhi dei bassorilievi"
+    },
+    {
+     "code": "C17",
+     "why": "la piramide nella caverna"
+    },
+    {
+     "code": "C25",
+     "why": "la figura senza l'occhio sinistro"
+    }
+   ],
+   "theories": [
+    "T05",
+    "T11"
+   ],
+   "sources": "appunti di sessione"
+  }
+ ],
+ "theories": [
+  {
+   "code": "T01",
+   "title": "Il Sergente è Telio il Veggente",
+   "note": "",
+   "chars": [
+    "telio",
+    "dodici",
+    "arren"
+   ],
+   "text": "Il Sergente dei racconti di Dodici, che a Shinjang si presenta come Telio, sarebbe lo stesso Telio fondatore dei Veggenti, e lo stesso Telio che il gruppo incontra seicento anni dopo. Avrebbe visto l'intero Disegno, ne sarebbe morto e sarebbe tornato, condannato a vedere tutto senza poter cambiare nulla.",
+   "pro": [
+    "legge le stelle",
+    "il prete gli dice «sempre con noi sei»",
+    "attraversa almeno seicento anni",
+    "racconta di un viandante morto e tornato a camminare",
+    "in sessione Arren lo identifica come il Veggente"
+   ],
+   "con": [
+    "a Hor dice di non essere il Veggente di El-Beth-El",
+    "racconta di essere nato vicino alle Ultracittà"
+   ],
+   "events": [
+    "M06",
+    "G03",
+    "G07",
+    "C07",
+    "C10",
+    "C22"
+   ],
+   "source": "Compendio, sez. 9; appunti di sessione"
+  },
+  {
+   "code": "T02",
+   "title": "Telio è il ratto della parabola",
+   "note": "",
+   "chars": [
+    "telio",
+    "hor"
+   ],
+   "text": "Il Sergente non sarebbe il padre della parabola, ma il ratto: una vittima rimasta sospesa tra la vita e la fine, che ha assunto lo sguardo ironico del proprio carnefice e ora ripete il gioco con gli altri. Resta aperta la domanda su chi sia il padre.",
+   "pro": [
+    "il viandante «sta ancora camminando»",
+    "«la fine arriverà», detto con speranza",
+    "la figura al centro dei bassorilievi",
+    "le notti nudo a urlare",
+    "la frase in più nella versione di Telio",
+    "la risata dell'Omnissiah alla domanda di Hor"
+   ],
+   "con": [],
+   "events": [
+    "G05",
+    "M03",
+    "C13",
+    "C24",
+    "C30"
+   ],
+   "source": "Compendio, sezz. 6–7; appunti di sessione"
+  },
+  {
+   "code": "T03",
+   "title": "L'elfa di Dodici è Lena",
+   "note": "",
+   "chars": [
+    "elfa",
+    "dodici",
+    "demir"
+   ],
+   "text": "La Mind Flayer di Manduun sarebbe l'elfa che salvò Dodici e ne divenne la compagna.",
+   "pro": [
+    "era una donna delle Steppe d'Oro del Meerswelt",
+    "veniva da un clan che aveva lasciato le sabbie (il prete parlava di una «donna delle sabbie»)",
+    "voleva rivedere un volto prima di morire",
+    "ama qualcuno di cui non può tradire il nome",
+    "l'Arcidruida, una donna in simbiosi con la natura, è la destinazione nella lettura di Arren"
+   ],
+   "con": [
+    "all'elfa piace il presente e non le stelle, mentre Lena faceva profezie"
+   ],
+   "events": [
+    "G01",
+    "G09",
+    "C13",
+    "A03"
+   ],
+   "source": "intuizione di Carlo in sessione; Compendio, sez. 4"
+  },
+  {
+   "code": "T04",
+   "title": "La liberazione di Tharizdun è il secondo cataclisma",
+   "note": "",
+   "chars": [
+    "telio",
+    "dodici",
+    "tenar"
+   ],
+   "text": "Le parole del prete morente sulla sua «prigionia» sarebbero quelle di Tharizdun, il Dio Incatenato. La sua liberazione corrisponderebbe al «male imprigionato nelle viscere del Meerswelt» che esplode nel secondo cataclisma.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "G08",
+    "G10",
+    "F01",
+    "C08",
+    "C10"
+   ],
+   "source": "Compendio, sez. 9"
+  },
+  {
+   "code": "T05",
+   "title": "I bassorilievi: un ciclo di mondi e due occhi",
+   "note": "",
+   "chars": [
+    "telio",
+    "dodici",
+    "demir"
+   ],
+   "text": "La sfera spaccata sarebbe il Meerswelt che si rompe, gli uomini in fuga con le loro robe l'esodo degli Akbe, la sfera chiusa il nuovo rifugio, la figura al centro il Sergente, presente prima e dopo. «Il cerchio si chiude sempre»: un ciclo di mondi che si spezzano, e «Amon cadrà presto» annuncerebbe il prossimo. I bassorilievi mostrano anche due occhi, uno aperto e uno chiuso, come l'Unico, Demir e la figura senza occhio sinistro della Piramide.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "G08",
+    "F02",
+    "C13",
+    "C25",
+    "C31"
+   ],
+   "source": "Compendio, sez. 9; appunti di sessione"
+  },
+  {
+   "code": "T06",
+   "title": "La liberazione di Dodici era voluta dal Sergente",
+   "note": "",
+   "chars": [
+    "dodici",
+    "telio",
+    "elfa"
+   ],
+   "text": "La fuga di Dodici e i suoi anni di felicità sarebbero stati una fase del «ballo» del Sergente, come la distrazione della vedetta prima della freccia.",
+   "pro": [
+    "Dodici si sente osservato e prevenuto",
+    "«e adesso sta a te ballare»",
+    "la storia della vedetta, raccontata poco prima"
+   ],
+   "con": [],
+   "events": [
+    "G08",
+    "G10"
+   ],
+   "source": "Compendio, sez. 5"
+  },
+  {
+   "code": "T07",
+   "title": "Due prescelti: Dodici e Arren",
+   "note": "",
+   "chars": [
+    "dodici",
+    "arren",
+    "telio"
+   ],
+   "text": "Il prete chiama Dodici «Prescelto», «scelto da ciò che non è un dio». Arren è il prescelto della spada, a cui Tenar predice un trono. Forse il Sergente cerca qualcuno che compia, o spezzi, il Disegno al posto suo: Dodici sarebbe stato un tentativo, e Arren, discendente della Tigre Blu che il Sergente chiamava il suo rivale, potrebbe essere il successivo. Folarkimor parla del «ragazzo contro il dodicesimo oblio».",
+   "pro": [],
+   "con": [],
+   "events": [
+    "M02",
+    "G08",
+    "A02",
+    "C09"
+   ],
+   "source": "Compendio, sez. 9; appunti di sessione"
+  },
+  {
+   "code": "T08",
+   "title": "Il Sergente serve Portobianco solo in apparenza",
+   "note": "",
+   "chars": [
+    "telio",
+    "dodici"
+   ],
+   "text": "Il Sergente marcia sotto la bandiera di Portobianco e ne favorisce la strategia (a Shinjang ripete la neutralità predicata dal Sommo Veggente corrotto), ma fa uccidere un suo generale, dice che «il perché è nulla» e sembra godere della morte in sé. I suoi veri scopi sarebbero legati al lato sovrannaturale della storia.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "G03",
+    "G04",
+    "G05",
+    "G07"
+   ],
+   "source": "Compendio, sez. 3"
+  },
+  {
+   "code": "T09",
+   "title": "L'elfa conosceva il futuro di Dodici",
+   "note": "",
+   "chars": [
+    "elfa",
+    "dodici"
+   ],
+   "text": "L'elfa sa che il prete ha parlato a Dodici, reagisce con dolore alla domanda sul suo futuro e chiede perdono prima che Loeth gli affidi la missione. Lo amerebbe e allo stesso tempo avrebbe sempre saputo che la loro felicità sarebbe stata temporanea.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "G01",
+    "G09",
+    "G14"
+   ],
+   "source": "Compendio, sez. 4"
+  },
+  {
+   "code": "T10",
+   "title": "I Giallizzeri marchiati con le rune",
+   "note": "",
+   "chars": [
+    "dodici"
+   ],
+   "text": "I Quattro Consiglieri crearono un'élite di guerrieri marchiati con le rune dei giganti. Il tatuaggio di Dodici e la magia del fuoco della banda potrebbero venire da lì.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "P05",
+    "P06"
+   ],
+   "source": "Compendio, sez. 9"
+  },
+  {
+   "code": "T11",
+   "title": "La Piramide è il tempio di Telio",
+   "note": "",
+   "chars": [
+    "telio",
+    "arren",
+    "hor"
+   ],
+   "text": "La Piramide sarebbe il tempio di Telio, forse una prima versione o un'evoluzione della fortezza di Roke: anche Roke ha un labirinto interno e un osservatorio al centro, e il castello di Yake è costruito a cipolla. I suoi strati potrebbero corrispondere a passato, presente e futuro.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "M07",
+    "C05",
+    "C07",
+    "C09",
+    "C25",
+    "C31"
+   ],
+   "source": "appunti di sessione (osservazioni del 27/05/25 e del 18/11/25)"
+  },
+  {
+   "code": "T12",
+   "title": "L'Arren nudo è l'Ultimo Veggente",
+   "note": "",
+   "chars": [
+    "arren",
+    "telio"
+   ],
+   "text": "Se Telio è il primo Veggente, l'Arren nudo uscito dalla Piramide potrebbe essere l'ultimo.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "C03",
+    "C04"
+   ],
+   "source": "appunti di sessione (26/05/25)"
+  },
+  {
+   "code": "T13",
+   "title": "Dodici e il dodicesimo oblio",
+   "note": "ipotesi proposta, da verificare al tavolo",
+   "chars": [
+    "dodici",
+    "telio",
+    "arren"
+   ],
+   "text": "Telio parla del «dodicesimo oblio», la dodicesima venuta della dea incatenata, e Folarkimor del «ragazzo contro il dodicesimo oblio». Il nome di Dodici, il «Prescelto» di un tempio di Tharizdun, potrebbe non essere una coincidenza.",
+   "pro": [],
+   "con": [],
+   "events": [
+    "G08",
+    "C09",
+    "C10"
+   ],
+   "source": "nuova ipotesi, non presente nel compendio"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "c01",
+   "title": "Inizio",
+   "event": "P02",
+   "paras": [
+    "La scialuppa fende il mare nero, scivola sulle onde come un coltello sulla pelle. Dietro, le terre di Hayan si dissolvono in colonne di fumo, veli spettrali che soffocano la luce. La morte scende su uomini e bestie, cala lenta sulla terra stessa. Silenziosa. Totale.",
+    "Poi un urlo squarcia la notte.",
+    "La donna sulla scialuppa si contorce. Un'altra spinta, un altro grido. Gli uomini sulla barca la fissano con gli occhi sbarrati e le mani immobili. Il mare sospira intorno a loro.",
+    "E quando il suo corpo si tende per l'ultima volta, tremante, il bambino si affaccia al mondo tra il sangue e il sale."
+   ]
+  },
+  {
+   "id": "c02",
+   "title": "Corpo",
+   "event": "P03",
+   "paras": [
+    "Piove. Il vento artiglia la pelle con lame di ghiaccio. L'uomo e il bambino aspettano, immobili sotto un cielo di ferro.",
+    "Dal muro d'acqua emerge il carro, un'ombra scura tra le fruste della pioggia. Scricchiola, avanza con uno strattone, si ferma. Il momento è rapido, la scelta lo è ancora di più.",
+    "Venti pezzi d'oro. L'anima del bambino in cambio.",
+    "Le porte si chiudono con un colpo sordo. Il carro si allontana, carico di vite condannate a non essere mai più libere. L'uomo resta a guardare, i segni della polvere di Hosh ancora visibili sotto le narici. Un ricordo lo trafigge: una donna, otto anni prima, la fiducia che gli si spezzava tra le mani. Ora la memoria di quel tradimento lo incatena, come il bambino, per sempre."
+   ]
+  },
+  {
+   "id": "c03",
+   "title": "Spirito",
+   "event": "P04",
+   "paras": [
+    "Il ragazzo lavora con le mani aperte sul legno, le ferite incrostate di sangue e segatura. La schiena è un terreno battuto dal fuoco e dalla cinghia: ogni taglio è l'eco di un ordine urlato. Il cantiere vibra di ferro e martelli, il fumo dell'olio bruciato sale verso il cielo. La flotta cresce, le chiglie nere allineate come bestie in attesa del mare.",
+    "Solleva gli occhi oltre il porto. Case bianche, tetti rossi, un castello incastrato tra il cielo e la pietra. Sopra tutto, il grande Yornan, il re reso eterno nel marmo. Il sole spezza l'orizzonte sulla sua fronte lucente, ma quella gloria è un'ombra svuotata. Il suo regno esiste ancora. Il suo spirito è morto da tempo."
+   ]
+  },
+  {
+   "id": "c04",
+   "title": "Soldato",
+   "event": "P05",
+   "paras": [
+    "Scende nell'arena come un condannato al patibolo, il fango che si mescola al sudore. Intorno la folla urla, un mare di denti e lingue avide di violenza. Il sole cala su Portobianco, ma il sangue brilla lo stesso.",
+    "Di fronte a lui c'è il suo sfidante: uno che ha combattuto più volte di quanti anni il ragazzo abbia vissuto, che ha lasciato uomini senza nome nella polvere. Nessuna esitazione. Il ferro si abbatte, le ossa scricchiolano. Il ragazzo sente la morsa della morte, la assapora, poi spinge in avanti.",
+    "Le sue mani si chiudono attorno alla gola dell'uomo. Il respiro si spezza, gli occhi si gonfiano. L'uomo lotta, scalcia, poi si ferma. Solo un corpo, ora. Solo carne che il tempo consumerà.",
+    "Il ragazzo si rialza, il sangue gli cola sulle braccia come una benedizione. Nessuno lo ferma mentre va a reclamare il suo posto tra i Giallizzeri di Portobianco.",
+    "Una schiavitù come un'altra, solo che questa porta alla morte. Soldato e schiavo. Carne da guerra. Ma non per sempre: vent'anni di sangue per un giorno di libertà. E poi niente più padroni, niente più ordini. Solo il vento, e la terra sotto i piedi."
+   ]
+  },
+  {
+   "id": "c05",
+   "title": "Apparizione",
+   "event": "G01",
+   "paras": [
+    "La battaglia è finita: un massacro nelle steppe aperte. Il sangue cola nell'erba alta, i corpi segnano la disfatta. Il ragazzo corre con la spada ancora in pugno. Dietro di lui rombano gli zoccoli: i centauri del Mare Dorato lo inseguono come cani dietro un cervo ferito.",
+    "Trova riparo in una radura e si accovaccia nel fango, il cuore che batte come un tamburo spezzato. Una preghiera dopo l'altra, un dio dopo l'altro. Nessuno risponde. Il mondo è muto. È solo.",
+    "Poi un ramo che si spezza. Un'ombra tra gli alberi. Un centauro lo scorge, e il grido gli sale in gola, ma non lo finisce mai: una freccia gli trapassa la carne, il sangue gli gorgoglia dalle labbra, e cade schiantando l'erba.",
+    "Il ragazzo alza lo sguardo. Tra le ombre c'è una figura sottile, l'arco ancora teso. Una donna. Un'elfa.",
+    "Lei lo osserva. Fa una smorfia, il disgusto negli occhi come una lama. Poi scivola via tra gli alberi e sparisce, come se non fosse mai stata lì."
+   ]
+  },
+  {
+   "id": "c06",
+   "title": "Dovere",
+   "event": "G01",
+   "paras": [
+    "La foresta si stende infinita, i tronchi neri piegati dal vento. L'uomo cammina a testa bassa, le catene che tintinnano al passo della compagnia: corpi spezzati, volti scavati dalla fame e dalla guerra. La carne ricucita gli brucia ancora, la ferita pulsa come un secondo cuore.",
+    "Pensa a lei. All'elfa che gli ha salvato la vita, alla freccia che ha spezzato il grido di un cacciatore. Si chiede perché.",
+    "Davanti a loro, il villaggio di Jafal si annida tra gli alberi, il fumo dei fuochi mescolato alla nebbia del mattino. L'uomo stringe i denti. È un invasore, questo è il suo posto. Ma la spada pesa più di prima.",
+    "Diciannove anni ancora di carne da guerra. Ma poi sarà libero. E allora tornerà: non per essere libero, ma per conquistare il cuore di colei che la libertà, su queste terre, l'ha avuta da sempre."
+   ]
+  },
+  {
+   "id": "c07",
+   "title": "Tempo",
+   "event": "G02",
+   "paras": [
+    "I numeri parlano tra loro, i nomi come segni sulle spalle.",
+    "«Chi cade per primo?» La domanda è sussurrata e si perde nel fumo della tenda, dove l'odore di ferro e sudore è un abito che nessuno si toglie.",
+    "«Venti», propone Tre, mescolando le carte con un gesto rapido.",
+    "Un uomo con la spada in mano sghignazza. «Dieci.»",
+    "«Quindici», ribatte Dieci.",
+    "Quindici ride, fa roteare la spada come per smentire la previsione. Poi fissa la lama di Dodici, e il suo proprietario. «Chi cade per primo?»",
+    "«Dodici», risponde lui senza alzare lo sguardo. Non dice altro.",
+    "Gli altri lo guardano, ma lui è altrove. Conta gli anni: dodici da fare, otto già fatti, un ricordo che brucia nella carne. Guangzhang li aspetta nel buio come un giudice che ha già deciso il verdetto. E la memoria dell'elfa brilla come un faro in una mente altrimenti annegata nel buio."
+   ]
+  },
+  {
+   "id": "c08",
+   "title": "Assalto",
+   "event": "G02",
+   "paras": [
+    "Dodici spinge l'ariete con gli altri. Il legno scivola sotto le mani bagnate di sudore e sangue, le frecce piovono fitte, una gli sfiora la spalla. Al terzo colpo la porta cede con un gemito.",
+    "Le guardie escono. Una lama apre il petto dell'uomo davanti a lui, e il corpo gli cade addosso, lo schiaccia. Sente il peso, l'odore del sangue caldo. Alla fine riesce a scrollarselo di dosso e si alza. Entra nella città.",
+    "Avanza nel caos, vede un vicolo e ci si infila. Avanti, destra, sinistra. Un carro di frutta è fermo lì. Dodici getta la spada a terra e si avventa sul cibo.",
+    "Una guardia passa, si ferma, lo vede. Grida qualcosa che lui non capisce e gli si lancia contro. È veloce, ma non abbastanza: Dodici schiva la lama, afferra un sasso e colpisce alla testa. Una volta. Un'altra. E ancora, e ancora, finché la guardia non si muove più.",
+    "Respira forte. Guarda quel volto ridotto a poltiglia. Pensa al fango dell'arena, a quel giorno. Una vittima per entrare, una vittima per continuare.",
+    "Si gira verso il carro. Prende il cibo. Mangia."
+   ]
+  },
+  {
+   "id": "c09",
+   "title": "Cambio",
+   "event": "G03",
+   "paras": [
+    "Dodici è in catene con i compagni, fuori dalle mura, mentre le truppe di Portobianco entrano a Guangzhang. Arriva il capitano con il premio: carne, per oggi. Gli altri si avventano sul bottino. Dodici prende un pezzo solo, toglie un verme e si mette in disparte.",
+    "La città brilla tra le fiamme oltre la collina. Sulla strada un piccolo gruppo avanza verso di loro, e l'uomo che lo guida osserva i Giallizzeri divorare cibo e vino. Poi fissa Dodici. Si china, gli occhi sul tatuaggio.",
+    "«Otto anni di servizio.»",
+    "Dodici mastica carne che sa di gomma e non risponde. L'uomo sorride: denti piccoli, infantili.",
+    "«Vuoi un nome nuovo? Cavalca con me. Ogni testa, un giorno in meno.»",
+    "Dodici guarda la carne che ha tra le mani, e per la prima volta ne sente la puzza. Pensa agli anni. Pensa all'elfa. Poi alza lo sguardo verso il suo nuovo maestro.",
+    "«Accetto.»"
+   ]
+  },
+  {
+   "id": "c10",
+   "title": "Rinascita",
+   "event": "G05",
+   "paras": [
+    "Dodici scivola nel fango, il corpo pesante e la testa leggera. Il suo nome è ormai il ricordo di un tempo passato, quasi uno scherzo del suo nuovo compito. Intorno a lui l'accampamento respira: il fuoco che crepita, il metallo che stride, voci che parlano di nulla.",
+    "Ventuno nomi nella mente. Li conta con il battito del cuore, uno per passo, uno per respiro. Ventuno vite passate attraverso la sua lama per la parola del Sergente.",
+    "L'odore del sangue è ovunque. La notte è densa, il cielo basso. Un altro passo, un altro nome. La bandiera di Portobianco sbatte nel vento."
+   ]
+  },
+  {
+   "id": "c11",
+   "title": "Omicidio",
+   "event": "G05",
+   "paras": [
+    "Entra nella tenda. Sulle tele si agitano le ombre del generale e della sua concubina. Dodici sguaina la spada: la lama sibila nell'aria, attraversa la gola di lei e senza fermarsi curva su quella di lui. Il generale solleva lo sguardo, gli occhi spalancati come se potessero ancora chiedere qualcosa. Dodici guarda e non dice nulla. Il sangue gocciola nel silenzio.",
+    "Poi scivola fuori, nella notte da cui è venuto."
+   ]
+  },
+  {
+   "id": "c12",
+   "title": "Il Sergente, parte prima",
+   "event": "G05",
+   "paras": [
+    "Un corpo dopo l'altro. Il generale di Portobianco gli pulsa ancora nella testa. Il carro sobbalza sotto la guida del Sergente. Quindici anni al servizio di Portobianco, e ora nemico di Portobianco, ma ancora sotto la sua bandiera.",
+    "Gli altri dormono sparsi nell'ombra. Dodici si siede accanto al Sergente. Il volto dell'uomo brilla sotto la luna. Ferma il carro, si asciuga la fronte con il dorso della mano e sorride.",
+    "Dodici chiede: perché?",
+    "«Non è curioso che la domanda venga dopo l'atto? Come se l'uomo cercasse una ragione proprio dove la ragione non ha più voce. Se la risposta non ti soddisfa, il sangue versato non torna nella carne. No: la pace con il dubbio è più facile per il cuore. Il dubbio non chiede nulla in cambio.»"
+   ]
+  },
+  {
+   "id": "c13",
+   "title": "Il Sergente, parte seconda",
+   "event": "G05",
+   "paras": [
+    "Il discorso non gli basta. Dodici vuole sapere perché quel generale doveva morire. Il Sergente lo osserva; gocce di sudore gli scivolano sulla fronte bianca come il latte e si raccolgono sul bordo degli occhi senza ciglia.",
+    "«Ecco una storia», dice.",
+    "«Un viandante camminava per terre desolate. Da giorni non beveva, il sole lo scorticava, eppure andava avanti. In quel viaggio trovò una cosa. Non saprei dirti cosa fosse, e nemmeno lui avrebbe saputo: un idolo, un'arma, una reliquia. La prese. Se ne ossessionò, e quella cosa si nutrì di lui come la lebbra della carne. Non la usò mai. Non ne capì mai il senso. Interrogò profeti e stregoni, si inginocchiò davanti a vecchi che avevano visto più primavere di quante ne potesse contare. Nessuno seppe dirgli cosa fosse. Alla fine trovò solo una cosa: la morte. Senza ragione, senza colpa.»",
+    "Il Sergente inclina la testa. «Ma l'universo gli donò un altro passo. E cosa credi che fece il viandante?»",
+    "Dodici non lo sa.",
+    "Il Sergente ride piano. «Nemmeno lui. Tornò a cercare la fonte del potere che lo aveva ucciso. Quel che si fa, si fa per la cosa in sé. Il perché è nulla.»",
+    "«E cosa successe al viandante?»",
+    "Il Sergente guarda l'orizzonte, dove il buio pulsa come un cuore morto. «Succederà.» E sorride ancora, i denti piccoli e luminosi nella notte."
+   ]
+  },
+  {
+   "id": "c14",
+   "title": "Compagni",
+   "event": "G05",
+   "paras": [
+    "La truppa si ferma in un campo aperto del Mare Dorato. All'orizzonte le colonne di soldati strisciano tra i campi dorati di questa terra straniera.",
+    "Dodici prepara il fuoco. Il Sergente è sparito, come sempre. Mezzamani nutre i cavalli, il Lercio raccoglie legna, lo Sputafuoco affila le armi, l'Arcano fa la guardia, il Pensatore dorme sotto il carro.",
+    "Tre mesi con il Sergente, tre anni sotto il suo comando. Dodici osserva le mani di Mezzamani: mignolo e anulare strappati via, secondo la tradizione degli Shiquan-kai, la punizione per i codardi. E ora marcia con chi ha devastato la sua terra.",
+    "Dodici si chiede se lui tradirebbe Portobianco. La risposta arriva subito: sì. In parte lo ha già fatto.",
+    "Le scintille della pietra cadono sterili nella paglia. Mezzamani si avvicina, batte le pietre tra le tre dita rimaste, e una fiammata si alza nel buio.",
+    "Dodici gli chiede del Sergente.",
+    "«Sento che certe notti gira nudo per i campi», dice Mezzamani senza staccare gli occhi dal fuoco. «Urla ai lupi e alle bestie dell'oscurità. Credo che i fantasmi che lo perseguitano siano insaziabili.»"
+   ]
+  },
+  {
+   "id": "c15",
+   "title": "Codardia",
+   "event": "G05",
+   "paras": [
+    "Il fuoco crepita. Dodici e Mezzamani fissano le fiamme. Gli occhi di Dodici scivolano sulle mani martoriate del compagno, e Mezzamani se ne accorge e le infila in tasca.",
+    "«Che cazzo guardi, ragazzo.»",
+    "Dodici sputa per terra senza distogliere lo sguardo. Un codardo, pensa. Un fuggiasco.",
+    "«E fra poco un pestaggio, se non vai a fare in culo.»",
+    "Dodici non abbassa gli occhi. Il ricordo dell'omicidio gli preme sul petto: il sangue sulle mani, il silenzio di chi non c'è più.",
+    "«E ora che ne pensi? Diamo la caccia ai nostri?»",
+    "Mezzamani alza un sopracciglio. «Ai tuoi.»",
+    "Dodici socchiude gli occhi. Pensala come vuoi. Tuoi non sono."
+   ]
+  },
+  {
+   "id": "c16",
+   "title": "Cattura",
+   "event": "G06",
+   "paras": [
+    "La carovana di centauri ondeggia tra le erbe alte del campo dorato. Dodici segue con lo sguardo il capo, poi si volta verso Mezzamani.",
+    "Il Sergente dà il segnale. L'Arcano alza la mano e il capo della carovana svanisce in un'esplosione di fuoco. La truppa si lancia in avanti e travolge i viaggiatori ignari.",
+    "Nessun superstite, tranne uno: un elfo, un capitano, alto quanto Mezzamani. Dodici lo osserva e poi guarda il compagno. Non è solo la statura. Il viso, gli occhi e soprattutto quel terrore: il terrore di chi riconosce un familiare dall'altra parte della lama."
+   ]
+  },
+  {
+   "id": "c17",
+   "title": "Famiglia",
+   "event": "G06",
+   "paras": [
+    "Sette aprile. Il silenzio copre l'accampamento come un sudario teso. Il capitano prigioniero giace bendato, e suo fratello lo guarda. Dal buio emerge il Sergente, e un brivido corre sulla pelle di Dodici.",
+    "«Famiglia», dice il Sergente. «La gente ne parla come di un dono divino. Ma non c'è nessuna mano celeste. La famiglia non è il sangue che lega, è una scelta. Guardate il capitano: ha lasciato i suoi uomini, e ora danza con la famiglia della Tigre per qualcosa di più grande. Un popolo. E voi avete fatto lo stesso: avete lasciato padroni, commilitoni, città, per essere qui insieme, l'ombra di una famiglia. Tutti, tranne uno.»",
+    "Si volta verso Mezzamani. «Pensavo fosse una scelta, lasciare la famiglia da terzogenito, lasciare gli Shiquan-kai. Eppure eccoti qui, con il respiro pesante e i pugni stretti, davanti a un fratello che avevi già gettato via. Dimmi, Mezzamani: l'hai scelta questa strada, o sei soltanto scappato? Non sarai un codardo?»",
+    "Mezzamani si scaglia sul fratello e lo uccide."
+   ]
+  },
+  {
+   "id": "c18",
+   "title": "Ventiquattro",
+   "event": "G06",
+   "paras": [
+    "Dodici fissa il prigioniero. La terra beve il sangue come la rugiada. Cinque anime da cacciare, e la sesta è la sua: parole di qualcuno che ormai è morto, che gli tornano in mente.",
+    "Pensa al suo numero: adesso è ventiquattro. Guarda i suoi simili, e poi vede lui, il Sergente, la pelle chiara e lucida sotto la luna, ritto come uno scoglio in un mare malato. Forse un presagio.",
+    "Dodici pensa al rivale che il Sergente ha indicato a est: la Tigre Blu, lo sciamano. E pensa al Sergente, il signore della carne, con la sua legge di fiamme e fuoco. Ci sarà del sangue."
+   ]
+  },
+  {
+   "id": "c19",
+   "title": "Shinjang",
+   "event": "G07",
+   "paras": [
+    "Il Primo è un mercante, signore di un impero di navi. È colui che dà. Dodici e la truppa osservano le strade di Shinjang che serpeggiano oltre i cancelli: uomini curvi, contadini cotti dal sole, poveri.",
+    "Il Sergente scruta Mezzamani, capitano per il momento, e ne assapora il terrore. Mezzamani scaglia una palla di fuoco su un gruppo di contadini ignari."
+   ]
+  },
+  {
+   "id": "c20",
+   "title": "Lasciapassare",
+   "event": "G07",
+   "paras": [
+    "Si chinano su cinque corpi. Dodici strappa la tunica a un giovane padre di famiglia, e insieme lavano il sangue dalle vesti delle vittime. Il Sergente li guarda con lo stesso sorriso che riserva al fuoco.",
+    "Dodici comincia a scavare per nascondere i corpi. Mezzamani lo ferma: lascia stare.",
+    "Con i documenti dei morti si presentano ai cancelli di Shinjang. Davanti a loro, alta e pallida, la figura che li guida."
+   ]
+  },
+  {
+   "id": "c21",
+   "title": "L'assemblea",
+   "event": "G07",
+   "paras": [
+    "Dalla tribuna dell'assemblea Dodici guarda il Mercante, il bersaglio. Si discute di diritti commerciali, le voci si alzano. Seduta dopo seduta, gli avari della gilda cominciano a cedere e i voti cambiano. Il Sergente sta fermo, eppure sembra avanzare, stendersi verso le spalle del Mercante. Il voto sarà negativo.",
+    "Il Mercante parla di Portobianco che incombe: dice che gli accordi vanno strappati, dice guerra e la chiama previdenza. Poi si alza il Sergente, come un'ombra. Qui si fa chiamare Telio.",
+    "«A chi giova la paura, se non a chi ha fabbricato l'eco? Il Mercante ha parlato ma non ha detto tutto. Non ha detto che la minaccia è anche qui.» E indica la sedia d'oro del Mercante. «Io vi dico che il Mercante non vende salvezza, ma un recinto. Portobianco non è né un angelo né un mostro. Il Mercante vi chiede di chiudere gli occhi per paura. Questo non è un consiglio, è un avviso: chi semina paura raccoglie controllo.»",
+    "Dalle ultime file arrivano i primi insulti contro il Mercante."
+   ]
+  },
+  {
+   "id": "c22",
+   "title": "La preda",
+   "event": "G07",
+   "paras": [
+    "Il Mercante avanza lungo il selciato come un corpo senz'anima, gli occhi vuoti, con la quiete di chi ha già conosciuto la morte. Pochi servi si muovono al suo passaggio.",
+    "Dodici si volta: il Sergente e Mezzamani. Il Sergente dà il cenno. Nessuna parola. La truppa comincia a muoversi, e davanti c'è la preda."
+   ]
+  },
+  {
+   "id": "c23",
+   "title": "La villa",
+   "event": "G07",
+   "paras": [
+    "Di notte, di soppiatto, Dodici e Mezzamani entrano nella villa del Mercante. Il Sergente non aveva fretta: ha lasciato a Mezzamani il comando e la paura.",
+    "Trovano la camera da letto. Il Mercante dorme. Mezzamani avanza, e un'asse cigola. Il Mercante si sveglia, Mezzamani cerca di fuggire, e il Mercante lo sgozza. Dodici non aspetta: uccide il Mercante. Poi guarda il compagno che si agita a terra, e muore."
+   ]
+  },
+  {
+   "id": "c24",
+   "title": "Un'anima in più",
+   "event": "G07",
+   "paras": [
+    "La squadra scivola via dalla villa. Dodici pensa al corpo di Mezzamani, steso come un sacco vuoto, e al tremito della sua mano. Alza lo sguardo. Il Sergente cammina davanti a loro con un sorriso che non ha niente di umano: il ghigno di un demone che sa di aver guadagnato un'anima in più, una preda trascinata nel buio eterno, e ne gode al ricordo."
+   ]
+  },
+  {
+   "id": "c25",
+   "title": "La vedetta",
+   "event": "G08",
+   "paras": [
+    "Quattordici settembre. Dodici siede nel cerchio di luce del fuoco, le scintille salgono verso stelle che pulsano. Pensa a Mezzamani, portato fino alla morte. Il Sergente siede a gambe incrociate, nudo, la pelle bianca.",
+    "«Il carro azzurro che attraversa il cielo», dice, ma Dodici non vede che il caos delle stelle. «Che tu non lo veda è giusto. Fa parte di un'ironia. Ti racconto di una vedetta. Per mesi e mesi rimase al limitare della giungla a cercare il nemico. Non cedette mai al sonno né alla fame, era diventata foresta lei stessa. Ma un giorno una compagna la chiamò, e la vedetta voltò la testa per la prima volta in tanti mesi. In quell'istante una freccia le entrò nella gola. Un colpo perfetto, preparato da tempo.» Ride. «Adoro l'ironia del cacciatore che diventa preda.»"
+   ]
+  },
+  {
+   "id": "c26",
+   "title": "Il dio della fine",
+   "event": "G08",
+   "paras": [
+    "All'alba mangiano e si rimettono in marcia sul Mare Dorato. Li aspettano giorni di cammino. Nella testa di Dodici rimbombano le parole del Sergente: «Il prete serve Tharizdun, l'unico dio che non ha mai mentito agli uomini. Gli altri promettono paradisi e salvezze. Lui solo la fine».",
+    "Dodici si chiede cosa troveranno, e cosa penserà il prete di loro e del Sergente."
+   ]
+  },
+  {
+   "id": "c27",
+   "title": "Il villaggio",
+   "event": "G08",
+   "paras": [
+    "Al quinto giorno il villaggio appare. Case color terra. Niente fumo, nessun bambino.",
+    "Tutti guardano il Sergente, e le mani si muovono verso qualcosa che pende sotto il collo: un ciondolo di metallo scuro, un teschio da cui spuntano tentacoli attorcigliati. Tutti ne portano uno, tutti lo stringono. Una donna gli si avvicina con il ciondolo nel pugno. Il Sergente avanza a braccia aperte, e Dodici sente le preghiere dei villici a un dio che promette soltanto la fine."
+   ]
+  },
+  {
+   "id": "c28",
+   "title": "Il prete",
+   "event": "G08",
+   "paras": [
+    "Il tempio giace al centro del villaggio come un cuore marcio, le porte di pietra scura spalancate. Il prete aspetta la folla con gli occhi fissi sul Sergente.",
+    "«Eccoti qui. Sempre con noi sei.»",
+    "Il Sergente sorride, estrae la pistola e la punta alla fronte del prete. Nessuno si muove, nessuno respira. Il grilletto scatta, e non esce nulla. Il Sergente ride, come in un luogo dove ridere e morire sono la stessa cosa.",
+    "«Questo non sarebbe divertente.»",
+    "«La fine arriverà», dice una voce piena di speranza, «che tu lo voglia o no.»",
+    "Sul petto del prete, il simbolo di Tharizdun. «Sempre questa è l'illusione.»"
+   ]
+  },
+  {
+   "id": "c29",
+   "title": "La locanda",
+   "event": "G08",
+   "paras": [
+    "La casa pubblica è un edificio basso di fango secco. Il Sergente paga la stanza per tutti con monete che nessuno vuole toccare.",
+    "Dodici guarda fuori, e nessuno ricambia il suo sguardo. Poi qualcuno lo fa: qualcuno che non ha paura e lo fissa. Una donna elfa, in mezzo alla strada. Qualcosa gli rotola nella memoria. Conosce quel volto, l'ha visto anni prima: la donna che lo ha salvato. Muschio e linfa, foglie che marciscono nel sottobosco."
+   ]
+  },
+  {
+   "id": "c30",
+   "title": "Il tempio",
+   "event": "G08",
+   "paras": [
+    "Dodici si muove d'istinto, guidato dall'olfatto e dalla vista di lei. L'elfa si sposta tra le case e lui la segue come un miraggio. La gente si scosta al loro passaggio, come davanti a qualcosa che cammina ma non vive. Lei non si volta mai.",
+    "Arriva al tempio. Sul frontone c'è uno stemma: un vortice nero che divora se stesso, che non finisce mai. Tharizdun, il divoratore di mondi. Dodici trema: è una trappola, e ci cade lo stesso. La donna varca la soglia e lui la segue. Si ferma nel buio dell'atrio, si volta verso il villaggio, e sa che il Sergente lo sta guardando."
+   ]
+  },
+  {
+   "id": "c31",
+   "title": "Prescelto",
+   "event": "G08",
+   "paras": [
+    "Dentro l'aria è ferma e sa di incenso bruciato. Accanto all'altare c'è un prete vecchissimo. Dodici si chiede quale crimine lo abbia condannato a morte.",
+    "Gli occhi del vecchio sono acqua torbida. «Eccoti, eccoti, Prescelto! Il cerchio si chiude, sempre. Sarà il tuo compito più grande, e non ti salverà.»",
+    "«Non servo dèi», risponde Dodici.",
+    "«Ed è per questo che sei scelto da ciò che non lo è.»",
+    "La donna è sparita. Il vecchio aspetta, come chi ha imparato che tutto arriva."
+   ]
+  },
+  {
+   "id": "c32",
+   "title": "I bassorilievi",
+   "event": "G08",
+   "paras": [
+    "Il prete spinge una lastra che sembra pietra come le altre, e sotto l'altare si apre una scala. Dodici lo segue. La torcia prende vita e rivela un bassorilievo. Da una parte, una sfera spaccata da cui escono figure storte. Dall'altra, una sfera liscia e chiusa in cui le figure rientrano in cerca di rifugio. Dove le figure si incontrano c'è una figura alta, liscia, senza segni, con un sorriso di trentadue denti bianchi.",
+    "«Sembra follia, ma giace nella verità», dice il prete. «Non posso spiegartela. Quelli che vedono il disegno nella sua interezza sono quelli che non possono farci nulla. Il Sergente non è cosa semplice: né umano né divino. Ti dirò solo questo: dovrai scegliere tra una donna delle sabbie e me. Non seguirla: la sua strada è fatta di dolore e perdita. Io posso risparmiarti la morte dello spirito.»",
+    "Dodici si avvicina, la torcia gli scalda le dita. Nella sfera spaccata gli uomini fuggono trascinandosi dietro le loro cose, le creature senza forma si contorcono, e tutto resta sotto lo sguardo della figura sorridente. Seguendo la linea, i volti si ricompongono nella sfera chiusa, come se la sofferenza trovasse rifugio. Non sono due mondi, capisce Dodici: sono due occhi, uno aperto e uno chiuso, con il sorriso al centro che li unisce."
+   ]
+  },
+  {
+   "id": "c33",
+   "title": "Lo sguardo",
+   "event": "G08",
+   "paras": [
+    "Dodici esce dal tempio mentre la notte cala sul villaggio, portando con sé qualcosa di pietra. Una verità antichissima lo ha sfiorato: la mente la rifiuta, l'anima le si chiude contro.",
+    "In fondo alla strada c'è il Sergente. Due anni da assassino per cancellarne dodici da soldato. Il Sergente sorride, e Dodici sente il gelo nelle ossa, come se qualcuno gli leggesse i pensieri. Poi vede l'elfa, e qualcosa gli si muove nel petto. Dodici fissa il Sergente a sua volta e sorride, pronto a combatterlo."
+   ]
+  },
+  {
+   "id": "c34",
+   "title": "L'erba alta",
+   "event": "G09",
+   "paras": [
+    "Dodici segue l'elfa nell'erba alta, finché il villaggio è lontano. Lei sa che lui la segue. Camminano verso una meta che conosce solo lei. Poi si ferma e lo fissa.",
+    "«Perché mi segui, soldato? Hai dimenticato le parole del prete?»",
+    "«Se mi hai salvato la vita, devo sapere perché. Che debito ho generato? Sono un invasore, un assassino. Porto soltanto la fine.»",
+    "«Ti sembra che questo mondo abbia confini?», risponde lei. «La fine non dà nulla, soldato. Io voglio avere.»"
+   ]
+  },
+  {
+   "id": "c35",
+   "title": "Sotto le stelle",
+   "event": "G09",
+   "paras": [
+    "Immersi nell'erba alta, Dodici e la donna giacciono distesi sotto un cielo che brucia di stelle. Lei solleva una mano e traccia confini invisibili tra le costellazioni.",
+    "«In queste terre alcuni credono che lassù si possa leggere il futuro», mormora. «Che in quei punti di luce sia nascosto il Grande Disegno che governa il mondo.»",
+    "«Chi ci crede?»",
+    "«I cavalcatori di tigri. Per loro è la verità assoluta.»",
+    "«E tu?» le chiede, voltandosi verso di lei. «Tu ci credi?»",
+    "Lei scuote appena la testa. «Io vengo da un altro luogo. Nel mio mondo la fede non guarda a ciò che sarà, ma a ciò che è. C'è un'unica devozione: creare amore, gioia e comunità nel presente.»",
+    "Dodici ascolta, e il desiderio di quel presente gli stringe il petto. Un pensiero freddo e nitido affiora: prima morirà il Sergente, prima si spezzeranno le catene che da sempre gli stritolano l'anima. Torna a fissare il cielo.",
+    "«C'è un futuro così per me, in quelle stelle?»",
+    "La donna tace. Per un istante Dodici vede un'ombra di profonda tristezza velarle gli occhi, un dolore che lei si affretta a seppellire.",
+    "«Non importa cosa dice il futuro», risponde infine, con dolcezza ferma. «Ma nel presente, se è questo che desideri, io te lo darò.»"
+   ]
+  },
+  {
+   "id": "c36",
+   "title": "I coltelli",
+   "event": "G10",
+   "paras": [
+    "Dodici si allontana dal gruppo e cammina piano fino alla foresta, finché il bagliore dell'accampamento si attenua. Si china e finge di cercare legna. Dal mantello tira fuori dei coltelli, li seppellisce dopo un piccolo rituale e segna il punto su un albero secco.",
+    "Alle sue spalle, un fruscio tra gli alberi. Come se qualcuno avesse visto tutto."
+   ]
+  },
+  {
+   "id": "c37",
+   "title": "Il prete della fine",
+   "event": "G10",
+   "paras": [
+    "L'alba arriva tardi. Quando finalmente arriva, il Sergente e i suoi si muovono verso il villaggio, e Dodici chiude la fila sul terreno umido. La morte del prete è già decisa: lo sanno tutti.",
+    "Dodici quasi ghigna. Il prete della Fine troverà la fine per mano di un invasore. Se quel sacrificio porterà la libertà, allora quella morte avrà avuto un valore: una fine che vuole diventare un principio."
+   ]
+  },
+  {
+   "id": "c38",
+   "title": "Il ballo",
+   "event": "G10",
+   "paras": [
+    "Scivolano nel villaggio come qualcosa partorito dal buio. Nella cappella l'aria sa di cera, o di qualcosa di più antico.",
+    "«Ecco il mostro!», dice il prete.",
+    "«Mostro soltanto per chi non ha prospettiva», risponde il Sergente.",
+    "«Sarò libero dalla mia prigionia, in cambio del mio ruolo in questo ballo.»",
+    "«Credi davvero che sarà definitivo?»",
+    "Il prete apre le braccia, e le ombre dell'altare lo fanno a pezzi. Poi, il silenzio. Il Sergente guarda quello che resta. «Divertente.»",
+    "Si gira verso Dodici e sorride. «E adesso sta a te ballare.»",
+    "Una palla di fuoco esplode al centro della stanza."
+   ]
+  },
+  {
+   "id": "c39",
+   "title": "Risveglio",
+   "event": "G10",
+   "paras": [
+    "Dodici apre gli occhi. Il vento gli soffia in faccia, c'è sole, fa caldo. Una fitta al braccio: la carne è bruciata, morta, coperta a tratti da bende. Si guarda intorno e vede uomini ed elfi. E per la prima volta non sente più lo sguardo del Sergente su di sé. È libero. Il male non lo sente più."
+   ]
+  },
+  {
+   "id": "c40",
+   "title": "Libertà",
+   "event": "G11",
+   "paras": [
+    "Dodici, per ora, è libero. Le guerre sotto gli stendardi di Portobianco sono lontane. Solo il volto bianco del Sergente gli resta piantato nella mente come un chiodo, perché sa che è ancora in giro per il continente.",
+    "Di quella notte gli resta un'ombra più scura delle altre: il tradimento, l'arrivo di lei e della sua truppa, la bruciatura, la magia del Sergente, la fuga."
+   ]
+  },
+  {
+   "id": "c41",
+   "title": "La figlia",
+   "event": "G11",
+   "paras": [
+    "Sono passati tre anni e sei mesi dalla liberazione. Dodici cammina mano nella mano con la figlia. Pensa al Sergente e alla banda: li tiene lontani, ma non del tutto dimenticati. La mano piccola nella sua è calda e leggera. Davanti a loro il villaggio si alza dal mare della steppa.",
+    "Dodici prova una cosa semplice: libertà e felicità. Una felicità che non conosce ancora il proprio prezzo, e che già sente consumarsi, come se ogni istante felice portasse dentro di sé la propria usura. Stringe la mano della figlia e continua a camminare."
+   ]
+  },
+  {
+   "id": "c42",
+   "title": "La cavalleria",
+   "event": "G14",
+   "paras": [
+    "Dodici vede la cavalleria arrivare da lontano. La polvere si alza prima dei cavalli come un avvertimento, poi arrivano i colpi secchi e regolari degli zoccoli. Sa che lei è con loro e che porta notizie dal fronte.",
+    "Pensa agli anni di guerra, a quanto è lontano il tempo degli ordini: ora sta dall'altra parte, contro l'esercito di Portobianco. La cavalleria si avvicina e lui non rallenta. Solo il ricordo di un sorriso fa tremare la sua quiete."
+   ]
+  },
+  {
+   "id": "c43",
+   "title": "La tenda",
+   "event": "G14",
+   "paras": [
+    "Dodici si avvicina alla tenda centrale mentre la sua storia gli scorre nella mente. Anni passati a guardarsi le spalle, sentendo che qualcosa stava sempre per tornare a chiedere il conto. Davanti a lui c'è la tenda di Loeth, il maestro delle Tigri.",
+    "Le guardie lo aspettano immobili e gli fanno cenno di entrare. È lei a uscire: la sporcizia le copre ancora il viso, è stanca per la cavalcata e per le razzie della resistenza. La costa del Mare Dorato è caduta nelle mani di Portobianco.",
+    "Lui la bacia e sente sul suo viso il sapore dell'erba.",
+    "«Perdonami per questo», dice lei.",
+    "Lui non risponde. Sa che le catene da cui si era liberato stanno tornando a stringerlo. Fa un passo ed entra nella tenda."
+   ]
+  },
+  {
+   "id": "c44",
+   "title": "Loeth",
+   "event": "G14",
+   "paras": [
+    "Al centro della tenda c'è il vecchio guerriero che difende le terre del Mare Dorato. Gli fa un cenno, e Dodici si siede e ascolta.",
+    "«Dodici, tu sei schiavo e traditore del tuo maestro. Sei l'unico, che noi conosciamo, ad aver vissuto accanto al Sergente, e questo ti rende un aiuto unico. La guerra contro Portobianco continua a divorare i nostri soldati, e la sua banda uccide chi potrebbe diventare nostro alleato. La costa è caduta, le loro truppe si spingono sempre più a fondo nelle steppe, e stiamo perdendo. Ci servono il tuo aiuto e quello che sai. Ci serve che tu abbatta il Sergente.»"
+   ]
+  },
+  {
+   "id": "c45",
+   "title": "Le stelle tacciono",
+   "event": "G14",
+   "paras": [
+    "La guerra continua sul confine. Anche nel buio si sentono i cavalli e il lavoro febbrile di chi sa che l'alba potrebbe portare l'assalto.",
+    "«Andiamo», dice Dodici. «Lasciamo tutto. Ho passato anni infiniti a combattere. Andiamo nelle steppe.»",
+    "Lei lo ascolta in silenzio. «Lo vorrei. Ma conosco una verità cupa, amore mio: da quello che ti insegue non si può scappare. Il Sergente non ti lascerà mai in pace.»",
+    "Lui la guarda come se potesse strapparle una risposta dagli occhi. «Cosa sai di lui? Cosa ti dicono le stelle?»",
+    "Lei non risponde. E Dodici capisce che quella notte il silenzio pesa più di qualsiasi presagio."
+   ]
+  },
+  {
+   "id": "c46",
+   "title": "Il ruscello",
+   "event": "G15",
+   "paras": [
+    "Dodici guarda il figlio giocare nel ruscello, l'acqua che gli scorre intorno alle caviglie. Per un po' il mondo sembra fatto solo di luce. Ma quella sera sarà l'ultima.",
+    "Il Sergente resta la sua maledizione, la vittoria che deve ancora prendersi. Dodici liscia il coltello e sente nella mente una carezza fredda, come se sapesse già che non tornerà. La vita gli ha dato soltanto sofferenze, partenze e addii, e ora un inizio che sembra marciare verso la fine."
+   ]
+  },
+  {
+   "id": "c47",
+   "title": "Cento giorni",
+   "event": "G15",
+   "paras": [
+    "La polvere si alza sotto i cavalli al trotto. Cento giorni per trovarlo. Le armate di Portobianco si allargano sul Mare Dorato. L'ultima vittima è il fratello di Loeth, ed è un messaggio chiaro: abbandonate colui che non può più proteggere nemmeno suo fratello."
+   ]
+  },
+  {
+   "id": "c48",
+   "title": "Quattro nomi",
+   "event": "G15",
+   "paras": [
+    "Tra le onde del Mare Dorato si avvicina l'inizio della fine. Dodici ha un solo ordine: trovare e abbattere l'assassino di Portobianco. Quattro nomi: lo Sputafuoco, l'Arcano, il Lercio, e il Visionario con i suoi figli. E infine quel mostro che sta soffocando gli ultimi respiri del Mare Dorato."
+   ]
+  },
+  {
+   "id": "c49",
+   "title": "Fuxien",
+   "event": "G15",
+   "paras": [
+    "Dodici cavalca verso le terre di Portobianco. Da anni la resistenza combatte, e ogni vittoria costa carissima. Della banda del Sergente si parla sottovoce: è diventata una leggenda di uomini aperti come bestie al macello. Chi distrugge una colonna di Portobianco muore poco dopo.",
+    "L'ultimo a cadere è stato il villaggio di Fuxien. Una colonna di Portobianco era stata arsa viva, poi era arrivato il Sergente: aveva ucciso il generale della resistenza e se n'era andato. Ma si dice che un testimone sia sopravvissuto.",
+    "Dodici cavalca verso di lui.",
+    "(Il racconto si interrompe qui.)"
+   ]
+  }
+ ]
+}
